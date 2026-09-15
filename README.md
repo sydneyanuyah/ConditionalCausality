@@ -104,16 +104,6 @@ metrics and confidence intervals from the saved prediction files.
 - [`docs/reproducibility_scope.md`](docs/reproducibility_scope.md)
 - [`docs/paper_claim_to_artifact.md`](docs/paper_claim_to_artifact.md)
 
-## Integrity
-
-`CHECKSUMS.sha256` contains SHA-256 checksums for the released files. After an
-intentional change, regenerate and validate them with:
-
-```bash
-python src/validation/build_checksums.py
-python src/validation/validate_release.py
-```
-
 ## Citation and data license
 
 Please cite **CondRelBench: A Mixed-Domain Benchmark for Condition-Scoped Relation
