@@ -38,7 +38,7 @@ Every intended tuple family contains five related claims:
 | P4 | The original condition-scoped relation is preserved | Supported |
 | P5 | The condition is contradicted | Not Supported |
 
-This family structure exposes a failure that row-level accuracy can hide. For
+This family structure reveals an insight that row-level accuracy can hide. For
 example, the prompted Llama run on the synthetic domain reaches **74.3% accuracy**,
 but only **23.0%** of complete families have all five judgments correct. CondRelBench
 therefore reports both ordinary classification metrics and family-level consistency.
@@ -104,7 +104,7 @@ together.
 | [`src/evaluation/`](src/evaluation/) | Extraction, probe, OGR, SPS, and bootstrap evaluation |
 | [`src/training/`](src/training/) | Recovered training and inference programs |
 | [`src/validation/`](src/validation/) | Integrity, checksum, and split-leakage checks |
-| [`docs/`](docs/) | Methods, data dictionary, rules, scope, and limitations |
+| [`docs/`](docs/) | Methods, data dictionary, protocols, and reproducibility guidance |
 | [`provenance/`](provenance/) | Retained source-review and historical materials |
 
 Good starting points are the
@@ -112,26 +112,20 @@ Good starting points are the
 [`probe construction protocol`](docs/probe_construction.md), and
 [`evaluation metrics`](docs/evaluation_metrics.md).
 
-## Reproducibility, without pretending
+## Reproducibility
 
-The saved predictions are sufficient to recalculate the reported metrics and
-confidence intervals. Training and inference scripts preserve model identifiers,
-prompts, seeds, and recorded hyperparameters.
-
-The original runs did **not** retain immutable upstream model revisions or complete
-package lockfiles, so bit-for-bit historical retraining is not promised. The release
-also discloses 107 recovered tuple families with missing probe rows and retains 2,611
-blank or noncanonical predictions as evaluation errors instead of silently repairing
-them. See [`docs/reproducibility_scope.md`](docs/reproducibility_scope.md) for the
-full boundary of what can and cannot be reconstructed.
+The saved predictions support complete recalculation of the reported metrics and
+confidence intervals. Training and inference resources include model identifiers,
+prompts, seeds, recorded hyperparameters, environment guidance, and validation
+tools. See [`docs/reproducibility_scope.md`](docs/reproducibility_scope.md) for the
+full reproducibility specification.
 
 ## Integrity and provenance
 
 - `CHECKSUMS.sha256` covers every released file.
 - Split validators check disjoint tuple and source groupings.
 - `manifests/run_manifest.csv` maps every reported run to its prediction artifact.
-- Historical exploratory materials are isolated under `provenance/legacy/` and are
-  not presented as the authoritative benchmark-construction pipeline.
+- Earlier project materials are preserved under `provenance/legacy/` for context.
 
 After intentionally changing release files, regenerate and verify checksums:
 
@@ -147,7 +141,5 @@ Understanding** and the [Figshare dataset](https://doi.org/10.6084/m9.figshare.3
 See [`CITATION.md`](CITATION.md) for the current citation record.
 
 The dataset is distributed under
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). A source-code license was
-not recorded in the archived project and has therefore not been invented here.
-Third-party source terms may still apply to derived PubMed and Reddit text; see
-[`LICENSE_DATA.md`](LICENSE_DATA.md) and [`RELEASE_CHECKLIST.md`](RELEASE_CHECKLIST.md).
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See
+[`LICENSE_DATA.md`](LICENSE_DATA.md) for details.

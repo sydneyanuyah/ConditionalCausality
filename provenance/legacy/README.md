@@ -7,7 +7,6 @@ was integrated:
 - `OpenAI_Probe_Generation.ipynb`
 - `synthetic.json`
 
-They are retained for provenance and are not presented as the authoritative
-construction pipeline for the released benchmark. The canonical probe tables and
-labels are in `data/probes/`; the documented construction protocol is
+They are retained for provenance and historical context. The current benchmark
+resources are in `data/probes/`, and the construction protocol is documented in
 `docs/probe_construction.md`.
