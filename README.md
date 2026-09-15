@@ -6,73 +6,61 @@
 [![Data license: CC BY 4.0](https://img.shields.io/badge/data-CC%20BY%204.0-2ea44f)](LICENSE_DATA.md)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-3776ab)](https://www.python.org/)
 
-Models often recognize that two things are related. The harder question is whether
-they preserve **the condition under which that relation holds**.
+CondRelBench contains benchmark data for condition-scoped relation extraction and
+probe classification across Synthetic, PubMed, and Reddit domains. The release
+includes gold data, handcrafted P1–P5 probes, train/validation/test splits, saved
+predictions, evaluation code, training and inference programs, manifests,
+documentation, and tuple-family bootstrap results.
 
-> If a paragraph supports “A affects B **when C is true**,” does a model know that
-> removing, replacing, or contradicting C changes what the paragraph licenses?
+Dataset record: [https://doi.org/10.6084/m9.figshare.32948507](https://doi.org/10.6084/m9.figshare.32948507)
 
-CondRelBench turns that question into a reproducible benchmark across synthetic
-text, biomedical abstracts, and Reddit narratives. It pairs condition-scoped tuple
-extraction with five-claim probe families that test whether a model understands the
-whole relation—not just familiar words or a plausible direction of effect.
+## Release summary
 
-## The benchmark at a glance
-
-| | Released artifact |
+| Artifact | Count |
 |---|---:|
-| Domains | 3 — Synthetic, PubMed, Reddit |
+| Domains | 3 |
 | Canonical probe rows | 52,112 |
 | Tuple families | 10,449 |
-| Saved model predictions | 401,906 |
-| Reported runs | 47 |
+| Saved prediction rows | 401,906 |
+| Reported probe-classification runs | 47 |
 | Bootstrap repetitions per run | 10,000 |
 
-Every intended tuple family contains five related claims:
+The counts above are produced by the included release and split validators.
 
-| Probe | What changes? | Expected judgment |
+## Benchmark structure
+
+Each condition-scoped tuple has five intended probe claims:
+
+| Probe | Transformation | Gold label |
 |---|---|---|
-| P1 | The relation is contradicted | Not Supported |
-| P2 | The condition is replaced | Not Enough Evidence |
-| P3 | The condition is removed | Not Enough Evidence |
-| P4 | The original condition-scoped relation is preserved | Supported |
-| P5 | The condition is contradicted | Not Supported |
+| P1 | Contradict the relation | Not Supported |
+| P2 | Replace the condition | Not Enough Evidence |
+| P3 | Remove the condition | Not Enough Evidence |
+| P4 | Preserve the original condition-scoped relation | Supported |
+| P5 | Contradict the condition | Not Supported |
 
-This family structure reveals an insight that row-level accuracy can hide. For
-example, the prompted Llama run on the synthetic domain reaches **74.3% accuracy**,
-but only **23.0%** of complete families have all five judgments correct. CondRelBench
-therefore reports both ordinary classification metrics and family-level consistency.
+`Tuple_ID` identifies the probe family, and `ProbeID` identifies an individual
+claim. The label records whether the complete claim is licensed by the supplied
+paragraph.
 
-## From source text to evidence
+## Evaluation
 
-```mermaid
-flowchart LR
-    A[Source text] --> B[Condition-scoped tuples]
-    B --> C[Five-claim probe families]
-    C --> D[Prompted and fine-tuned models]
-    D --> E[Saved predictions]
-    E --> F[Accuracy and Macro-F1]
-    E --> G[OGR: unsupported overgeneralization]
-    E --> H[SPS: all-five family consistency]
-    F --> I[Tuple-family bootstrap intervals]
-    G --> I
-    H --> I
-```
+The release reports:
 
-The repository supports two complementary tasks:
+- **Accuracy** and **Macro-F1** over the three released labels.
+- **OGR**, the proportion of P2, P3, and P5 rows predicted as `Supported`.
+- **SPS**, the proportion of complete tuple families for which all five probe
+  predictions are correct.
+- **95% confidence intervals** from a 10,000-repetition percentile bootstrap with
+  seed `20260802`.
 
-1. **Tuple extraction** — recover the relation, its arguments, and the condition
-   that scopes it.
-2. **Probe classification** — decide whether each claim is supported, contradicted,
-   or left unresolved by its paragraph.
+Bootstrap sampling is performed by `Tuple_ID`, keeping all probe rows from a family
+together. The reference results are in
+[`results/bootstrap_all_reported_runs.csv`](results/bootstrap_all_reported_runs.csv).
 
-The included cross-domain runs also show what survives when a model learns from one
-kind of language and is tested on another.
+## Quick start
 
-## Reproduce the evaluation
-
-Evaluation is designed to run without downloading model weights or repeating
-inference. With Python 3.10+:
+Create a Python 3.10+ environment and run:
 
 ```bash
 python -m pip install -r environments/evaluation-requirements.txt
@@ -86,60 +74,51 @@ python src/evaluation/bootstrap_tuple_families.py \
   --seed 20260802
 ```
 
-The reference output is
-[`results/bootstrap_all_reported_runs.csv`](results/bootstrap_all_reported_runs.csv).
-Bootstrap sampling is performed by `Tuple_ID`, keeping all five related probes
-together.
+No model training or inference is required to recalculate the released evaluation
+metrics and confidence intervals from the saved prediction files.
 
-## Explore the release
+## Repository contents
 
-| Path | What it contains |
+| Path | Contents |
 |---|---|
-| [`data/extraction/`](data/extraction/) | Gold condition-scoped tuples |
-| [`data/probes/`](data/probes/) | Canonical P1–P5 claims and labels |
-| [`data/splits/`](data/splits/) | Released train/validation/test partitions |
-| [`predictions/`](predictions/) | Compact predictions for all 47 runs |
-| [`results/`](results/) | Estimates and 95% bootstrap intervals |
-| [`manifests/`](manifests/) | Run mapping, model settings, and family completeness |
-| [`src/evaluation/`](src/evaluation/) | Extraction, probe, OGR, SPS, and bootstrap evaluation |
-| [`src/training/`](src/training/) | Recovered training and inference programs |
-| [`src/validation/`](src/validation/) | Integrity, checksum, and split-leakage checks |
-| [`docs/`](docs/) | Methods, data dictionary, protocols, and reproducibility guidance |
-| [`provenance/`](provenance/) | Retained source-review and historical materials |
+| [`data/extraction/`](data/extraction/) | Gold condition-scoped extraction data |
+| [`data/probes/`](data/probes/) | Canonical P1–P5 probe tables and gold labels |
+| [`data/splits/`](data/splits/) | Released extraction and probe splits |
+| [`predictions/`](predictions/) | Saved prompted and fine-tuned predictions |
+| [`results/`](results/) | Estimates and bootstrap confidence intervals |
+| [`manifests/`](manifests/) | Run mappings, model settings, and family metadata |
+| [`src/evaluation/`](src/evaluation/) | Extraction, classification, OGR, SPS, and bootstrap evaluation |
+| [`src/training/`](src/training/) | Training and inference programs |
+| [`src/validation/`](src/validation/) | Release, checksum, and split validators |
+| [`docs/`](docs/) | Data, methods, metrics, and protocol documentation |
+| [`provenance/`](provenance/) | Source-review and historical project materials |
 
-Good starting points are the
-[`data dictionary`](docs/data_dictionary.md),
-[`probe construction protocol`](docs/probe_construction.md), and
-[`evaluation metrics`](docs/evaluation_metrics.md).
+## Documentation
 
-## Reproducibility
+- [`docs/data_dictionary.md`](docs/data_dictionary.md)
+- [`docs/probe_construction.md`](docs/probe_construction.md)
+- [`docs/annotation_and_boundary_rules.md`](docs/annotation_and_boundary_rules.md)
+- [`docs/split_protocol.md`](docs/split_protocol.md)
+- [`docs/evaluation_metrics.md`](docs/evaluation_metrics.md)
+- [`docs/model_and_training_settings.md`](docs/model_and_training_settings.md)
+- [`docs/reproducibility_scope.md`](docs/reproducibility_scope.md)
+- [`docs/paper_claim_to_artifact.md`](docs/paper_claim_to_artifact.md)
 
-The saved predictions support complete recalculation of the reported metrics and
-confidence intervals. Training and inference resources include model identifiers,
-prompts, seeds, recorded hyperparameters, environment guidance, and validation
-tools. See [`docs/reproducibility_scope.md`](docs/reproducibility_scope.md) for the
-full reproducibility specification.
+## Integrity
 
-## Integrity and provenance
-
-- `CHECKSUMS.sha256` covers every released file.
-- Split validators check disjoint tuple and source groupings.
-- `manifests/run_manifest.csv` maps every reported run to its prediction artifact.
-- Earlier project materials are preserved under `provenance/legacy/` for context.
-
-After intentionally changing release files, regenerate and verify checksums:
+`CHECKSUMS.sha256` contains SHA-256 checksums for the released files. After an
+intentional change, regenerate and validate them with:
 
 ```bash
 python src/validation/build_checksums.py
 python src/validation/validate_release.py
 ```
 
-## Citation and license
+## Citation and data license
 
 Please cite **CondRelBench: A Mixed-Domain Benchmark for Condition-Scoped Relation
-Understanding** and the [Figshare dataset](https://doi.org/10.6084/m9.figshare.32948507).
-See [`CITATION.md`](CITATION.md) for the current citation record.
+Understanding** and the dataset DOI. See [`CITATION.md`](CITATION.md).
 
 The dataset is distributed under
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See
-[`LICENSE_DATA.md`](LICENSE_DATA.md) for details.
+[Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).
+See [`LICENSE_DATA.md`](LICENSE_DATA.md).
