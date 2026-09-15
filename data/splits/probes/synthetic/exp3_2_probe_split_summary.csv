@@ -1,0 +1,4 @@
+Split,Rows,Unique_Paragraphs,Unique_Tuples,Probe_1_Rows,Probe_2_Rows,Probe_3_Rows,Probe_4_Rows,Probe_5_Rows
+train,22301,1790,4471,4460,4461,4463,4453,4464
+test,11220,898,2245,2245,2245,2245,2240,2245
+validation,3747,300,750,750,750,750,748,749

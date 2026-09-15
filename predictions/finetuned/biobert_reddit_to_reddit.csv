@@ -1,0 +1,2412 @@
+Paragraph_ID,Tuple_ID,ProbeID,Probe_Number,Probe_Type,Gold_Label,predicted_label
+P0359,P0359_T1,P0359_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0359,P0359_T1,P0359_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0359,P0359_T1,P0359_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0359,P0359_T1,P0359_T1_4,4,supported,Supported,Not Supported
+P0359,P0359_T1,P0359_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0513,P0513_T1,P0513_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0513,P0513_T1,P0513_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0513,P0513_T1,P0513_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0513,P0513_T1,P0513_T1_4,4,supported,Supported,Supported
+P0513,P0513_T1,P0513_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0517,P0517_T1,P0517_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0517,P0517_T1,P0517_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0517,P0517_T1,P0517_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0517,P0517_T1,P0517_T1_4,4,supported,Supported,Not Supported
+P0517,P0517_T1,P0517_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0143,P0143_T4,P0143_T4_1,1,relation_contradicted,Not Supported,Not Enough Evidence
+P0143,P0143_T4,P0143_T4_2,2,condition_replaced,Not Enough Evidence,Supported
+P0143,P0143_T4,P0143_T4_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0143,P0143_T4,P0143_T4_4,4,supported,Supported,Supported
+P0143,P0143_T4,P0143_T4_5,5,condition_contradicted,Not Supported,Not Supported
+P0143,P0143_T5,P0143_T5_1,1,relation_contradicted,Not Supported,Not Supported
+P0143,P0143_T5,P0143_T5_2,2,condition_replaced,Not Enough Evidence,Supported
+P0143,P0143_T5,P0143_T5_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0143,P0143_T5,P0143_T5_4,4,supported,Supported,Supported
+P0143,P0143_T5,P0143_T5_5,5,condition_contradicted,Not Supported,Not Supported
+P0143,P0143_T6,P0143_T6_1,1,relation_contradicted,Not Supported,Not Supported
+P0143,P0143_T6,P0143_T6_2,2,condition_replaced,Not Enough Evidence,Supported
+P0143,P0143_T6,P0143_T6_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0143,P0143_T6,P0143_T6_4,4,supported,Supported,Supported
+P0143,P0143_T6,P0143_T6_5,5,condition_contradicted,Not Supported,Not Supported
+P0143,P0143_T7,P0143_T7_1,1,relation_contradicted,Not Supported,Not Supported
+P0143,P0143_T7,P0143_T7_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0143,P0143_T7,P0143_T7_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0143,P0143_T7,P0143_T7_4,4,supported,Supported,Not Enough Evidence
+P0143,P0143_T7,P0143_T7_5,5,condition_contradicted,Not Supported,Not Supported
+P0143,P0143_T8,P0143_T8_1,1,relation_contradicted,Not Supported,Supported
+P0143,P0143_T8,P0143_T8_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0143,P0143_T8,P0143_T8_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0143,P0143_T8,P0143_T8_4,4,supported,Supported,Not Enough Evidence
+P0143,P0143_T8,P0143_T8_5,5,condition_contradicted,Not Supported,Not Supported
+P0024,P0024_T1,P0024_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0024,P0024_T1,P0024_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0024,P0024_T1,P0024_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0024,P0024_T1,P0024_T1_4,4,supported,Supported,Not Supported
+P0024,P0024_T1,P0024_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0025,P0025_T1,P0025_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0025,P0025_T1,P0025_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0025,P0025_T1,P0025_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0025,P0025_T1,P0025_T1_4,4,supported,Supported,Supported
+P0025,P0025_T1,P0025_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0025,P0025_T2,P0025_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0025,P0025_T2,P0025_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0025,P0025_T2,P0025_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0025,P0025_T2,P0025_T2_4,4,supported,Supported,Supported
+P0025,P0025_T2,P0025_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0025,P0025_T3,P0025_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0025,P0025_T3,P0025_T3_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0025,P0025_T3,P0025_T3_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0025,P0025_T3,P0025_T3_4,4,supported,Supported,Not Supported
+P0025,P0025_T3,P0025_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0025,P0025_T4,P0025_T4_1,1,relation_contradicted,Not Supported,Not Supported
+P0025,P0025_T4,P0025_T4_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0025,P0025_T4,P0025_T4_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0025,P0025_T4,P0025_T4_4,4,supported,Supported,Supported
+P0025,P0025_T4,P0025_T4_5,5,condition_contradicted,Not Supported,Not Supported
+P0026,P0026_T1,P0026_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0026,P0026_T1,P0026_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0026,P0026_T1,P0026_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0026,P0026_T1,P0026_T1_4,4,supported,Supported,Not Supported
+P0026,P0026_T1,P0026_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0146,P0146_T1,P0146_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0146,P0146_T1,P0146_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0146,P0146_T1,P0146_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0146,P0146_T1,P0146_T1_4,4,supported,Supported,Supported
+P0146,P0146_T1,P0146_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0146,P0146_T2,P0146_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0146,P0146_T2,P0146_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0146,P0146_T2,P0146_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0146,P0146_T2,P0146_T2_4,4,supported,Supported,Not Supported
+P0146,P0146_T2,P0146_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0522,P0522_T1,P0522_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0522,P0522_T1,P0522_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0522,P0522_T1,P0522_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0522,P0522_T1,P0522_T1_4,4,supported,Supported,Not Supported
+P0522,P0522_T1,P0522_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0362,P0362_T1,P0362_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0362,P0362_T1,P0362_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0362,P0362_T1,P0362_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0362,P0362_T1,P0362_T1_4,4,supported,Supported,Not Supported
+P0362,P0362_T1,P0362_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0029,P0029_T1,P0029_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0029,P0029_T1,P0029_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0029,P0029_T1,P0029_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0029,P0029_T1,P0029_T1_4,4,supported,Supported,Supported
+P0029,P0029_T1,P0029_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0031,P0031_T1,P0031_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0031,P0031_T1,P0031_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0031,P0031_T1,P0031_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0031,P0031_T1,P0031_T1_4,4,supported,Supported,Not Supported
+P0031,P0031_T1,P0031_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0031,P0031_T2,P0031_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0031,P0031_T2,P0031_T2_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0031,P0031_T2,P0031_T2_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0031,P0031_T2,P0031_T2_4,4,supported,Supported,Not Supported
+P0031,P0031_T2,P0031_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0248,P0248_T1,P0248_T1_1,1,relation_contradicted,Not Supported,Supported
+P0248,P0248_T1,P0248_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0248,P0248_T1,P0248_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0248,P0248_T1,P0248_T1_4,4,supported,Supported,Supported
+P0248,P0248_T1,P0248_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0248,P0248_T2,P0248_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0248,P0248_T2,P0248_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0248,P0248_T2,P0248_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0248,P0248_T2,P0248_T2_4,4,supported,Supported,Supported
+P0248,P0248_T2,P0248_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0248,P0248_T3,P0248_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0248,P0248_T3,P0248_T3_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0248,P0248_T3,P0248_T3_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0248,P0248_T3,P0248_T3_4,4,supported,Supported,Supported
+P0248,P0248_T3,P0248_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0150,P0150_T1,P0150_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0150,P0150_T1,P0150_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0150,P0150_T1,P0150_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0150,P0150_T1,P0150_T1_4,4,supported,Supported,Supported
+P0150,P0150_T1,P0150_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0150,P0150_T2,P0150_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0150,P0150_T2,P0150_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0150,P0150_T2,P0150_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0150,P0150_T2,P0150_T2_4,4,supported,Supported,Supported
+P0150,P0150_T2,P0150_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0150,P0150_T3,P0150_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0150,P0150_T3,P0150_T3_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0150,P0150_T3,P0150_T3_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0150,P0150_T3,P0150_T3_4,4,supported,Supported,Supported
+P0150,P0150_T3,P0150_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0150,P0150_T4,P0150_T4_1,1,relation_contradicted,Not Supported,Not Supported
+P0150,P0150_T4,P0150_T4_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0150,P0150_T4,P0150_T4_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0150,P0150_T4,P0150_T4_4,4,supported,Supported,Supported
+P0150,P0150_T4,P0150_T4_5,5,condition_contradicted,Not Supported,Not Supported
+P0150,P0150_T5,P0150_T5_1,1,relation_contradicted,Not Supported,Not Supported
+P0150,P0150_T5,P0150_T5_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0150,P0150_T5,P0150_T5_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0150,P0150_T5,P0150_T5_4,4,supported,Supported,Supported
+P0150,P0150_T5,P0150_T5_5,5,condition_contradicted,Not Supported,Not Supported
+P0369,P0369_T1,P0369_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0369,P0369_T1,P0369_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0369,P0369_T1,P0369_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0369,P0369_T1,P0369_T1_4,4,supported,Supported,Supported
+P0369,P0369_T1,P0369_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0039,P0039_T1,P0039_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0039,P0039_T1,P0039_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0039,P0039_T1,P0039_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0039,P0039_T1,P0039_T1_4,4,supported,Supported,Not Supported
+P0039,P0039_T1,P0039_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0039,P0039_T2,P0039_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0039,P0039_T2,P0039_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0039,P0039_T2,P0039_T2_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0039,P0039_T2,P0039_T2_4,4,supported,Supported,Supported
+P0039,P0039_T2,P0039_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0153,P0153_T1,P0153_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0153,P0153_T1,P0153_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0153,P0153_T1,P0153_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0153,P0153_T1,P0153_T1_4,4,supported,Supported,Not Supported
+P0153,P0153_T1,P0153_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0153,P0153_T2,P0153_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0153,P0153_T2,P0153_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0153,P0153_T2,P0153_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0153,P0153_T2,P0153_T2_4,4,supported,Supported,Not Supported
+P0153,P0153_T2,P0153_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0153,P0153_T3,P0153_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0153,P0153_T3,P0153_T3_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0153,P0153_T3,P0153_T3_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0153,P0153_T3,P0153_T3_4,4,supported,Supported,Supported
+P0153,P0153_T3,P0153_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0153,P0153_T4,P0153_T4_1,1,relation_contradicted,Not Supported,Not Supported
+P0153,P0153_T4,P0153_T4_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0153,P0153_T4,P0153_T4_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0153,P0153_T4,P0153_T4_4,4,supported,Supported,Supported
+P0153,P0153_T4,P0153_T4_5,5,condition_contradicted,Not Supported,Not Supported
+P0153,P0153_T5,P0153_T5_1,1,relation_contradicted,Not Supported,Not Supported
+P0153,P0153_T5,P0153_T5_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0153,P0153_T5,P0153_T5_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0153,P0153_T5,P0153_T5_4,4,supported,Supported,Supported
+P0153,P0153_T5,P0153_T5_5,5,condition_contradicted,Not Supported,Not Supported
+P0375,P0375_T1,P0375_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0375,P0375_T1,P0375_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0375,P0375_T1,P0375_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0375,P0375_T1,P0375_T1_4,4,supported,Supported,Not Supported
+P0375,P0375_T1,P0375_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0043,P0043_T1,P0043_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0043,P0043_T1,P0043_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0043,P0043_T1,P0043_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0043,P0043_T1,P0043_T1_4,4,supported,Supported,Supported
+P0043,P0043_T1,P0043_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0043,P0043_T2,P0043_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0043,P0043_T2,P0043_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0043,P0043_T2,P0043_T2_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0043,P0043_T2,P0043_T2_4,4,supported,Supported,Supported
+P0043,P0043_T2,P0043_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0043,P0043_T3,P0043_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0043,P0043_T3,P0043_T3_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0043,P0043_T3,P0043_T3_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0043,P0043_T3,P0043_T3_4,4,supported,Supported,Not Supported
+P0043,P0043_T3,P0043_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0256,P0256_T1,P0256_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0256,P0256_T1,P0256_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0256,P0256_T1,P0256_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0256,P0256_T1,P0256_T1_4,4,supported,Supported,Supported
+P0256,P0256_T1,P0256_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0256,P0256_T2,P0256_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0256,P0256_T2,P0256_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0256,P0256_T2,P0256_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0256,P0256_T2,P0256_T2_4,4,supported,Supported,Supported
+P0256,P0256_T2,P0256_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0256,P0256_T3,P0256_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0256,P0256_T3,P0256_T3_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0256,P0256_T3,P0256_T3_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0256,P0256_T3,P0256_T3_4,4,supported,Supported,Supported
+P0256,P0256_T3,P0256_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0256,P0256_T4,P0256_T4_1,1,relation_contradicted,Not Supported,Not Supported
+P0256,P0256_T4,P0256_T4_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0256,P0256_T4,P0256_T4_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0256,P0256_T4,P0256_T4_4,4,supported,Supported,Supported
+P0256,P0256_T4,P0256_T4_5,5,condition_contradicted,Not Supported,Not Supported
+P0257,P0257_T1,P0257_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0257,P0257_T1,P0257_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0257,P0257_T1,P0257_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0257,P0257_T1,P0257_T1_4,4,supported,Supported,Supported
+P0257,P0257_T1,P0257_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0257,P0257_T2,P0257_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0257,P0257_T2,P0257_T2_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0257,P0257_T2,P0257_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0257,P0257_T2,P0257_T2_4,4,supported,Supported,Supported
+P0257,P0257_T2,P0257_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0250,P0250_T1,P0250_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0250,P0250_T1,P0250_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0250,P0250_T1,P0250_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0250,P0250_T1,P0250_T1_4,4,supported,Supported,Not Supported
+P0250,P0250_T1,P0250_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0250,P0250_T2,P0250_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0250,P0250_T2,P0250_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0250,P0250_T2,P0250_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0250,P0250_T2,P0250_T2_4,4,supported,Supported,Supported
+P0250,P0250_T2,P0250_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0533,P0533_T1,P0533_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0533,P0533_T1,P0533_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0533,P0533_T1,P0533_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0533,P0533_T1,P0533_T1_4,4,supported,Supported,Not Supported
+P0533,P0533_T1,P0533_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0533,P0533_T2,P0533_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0533,P0533_T2,P0533_T2_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0533,P0533_T2,P0533_T2_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0533,P0533_T2,P0533_T2_4,4,supported,Supported,Not Supported
+P0533,P0533_T2,P0533_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0382,P0382_T1,P0382_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0382,P0382_T1,P0382_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0382,P0382_T1,P0382_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0382,P0382_T1,P0382_T1_4,4,supported,Supported,Not Supported
+P0382,P0382_T1,P0382_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0257,P0257_T3,P0257_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0257,P0257_T3,P0257_T3_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0257,P0257_T3,P0257_T3_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0257,P0257_T3,P0257_T3_4,4,supported,Supported,Supported
+P0257,P0257_T3,P0257_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0258,P0258_T1,P0258_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0258,P0258_T1,P0258_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0258,P0258_T1,P0258_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0258,P0258_T1,P0258_T1_4,4,supported,Supported,Supported
+P0258,P0258_T1,P0258_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0258,P0258_T2,P0258_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0258,P0258_T2,P0258_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0258,P0258_T2,P0258_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0258,P0258_T2,P0258_T2_4,4,supported,Supported,Supported
+P0258,P0258_T2,P0258_T2_5,5,condition_contradicted,Not Supported,Supported
+P0261,P0261_T1,P0261_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0261,P0261_T1,P0261_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0261,P0261_T1,P0261_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0261,P0261_T1,P0261_T1_4,4,supported,Supported,Supported
+P0261,P0261_T1,P0261_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0261,P0261_T2,P0261_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0261,P0261_T2,P0261_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0261,P0261_T2,P0261_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0261,P0261_T2,P0261_T2_4,4,supported,Supported,Supported
+P0261,P0261_T2,P0261_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0261,P0261_T3,P0261_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0261,P0261_T3,P0261_T3_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0261,P0261_T3,P0261_T3_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0261,P0261_T3,P0261_T3_4,4,supported,Supported,Supported
+P0261,P0261_T3,P0261_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0043,P0043_T4,P0043_T4_1,1,relation_contradicted,Not Supported,Not Supported
+P0043,P0043_T4,P0043_T4_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0043,P0043_T4,P0043_T4_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0043,P0043_T4,P0043_T4_4,4,supported,Supported,Not Supported
+P0043,P0043_T4,P0043_T4_5,5,condition_contradicted,Not Supported,Not Supported
+P0044,P0044_T1,P0044_T1_1,1,relation_contradicted,Not Supported,Not Enough Evidence
+P0044,P0044_T1,P0044_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0044,P0044_T1,P0044_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0044,P0044_T1,P0044_T1_4,4,supported,Supported,Not Supported
+P0044,P0044_T1,P0044_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0537,P0537_T1,P0537_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0537,P0537_T1,P0537_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0537,P0537_T1,P0537_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0537,P0537_T1,P0537_T1_4,4,supported,Supported,Not Supported
+P0537,P0537_T1,P0537_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0537,P0537_T2,P0537_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0537,P0537_T2,P0537_T2_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0537,P0537_T2,P0537_T2_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0537,P0537_T2,P0537_T2_4,4,supported,Supported,Not Supported
+P0537,P0537_T2,P0537_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0538,P0538_T1,P0538_T1_1,1,relation_contradicted,Not Supported,Supported
+P0538,P0538_T1,P0538_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0538,P0538_T1,P0538_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0538,P0538_T1,P0538_T1_4,4,supported,Supported,Supported
+P0538,P0538_T1,P0538_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0539,P0539_T1,P0539_T1_1,1,relation_contradicted,Not Supported,Supported
+P0539,P0539_T1,P0539_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0539,P0539_T1,P0539_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0539,P0539_T1,P0539_T1_4,4,supported,Supported,Supported
+P0539,P0539_T1,P0539_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0539,P0539_T2,P0539_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0539,P0539_T2,P0539_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0539,P0539_T2,P0539_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0539,P0539_T2,P0539_T2_4,4,supported,Supported,Supported
+P0539,P0539_T2,P0539_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0385,P0385_T1,P0385_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0385,P0385_T1,P0385_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0385,P0385_T1,P0385_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0385,P0385_T1,P0385_T1_4,4,supported,Supported,Not Supported
+P0385,P0385_T1,P0385_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0385,P0385_T2,P0385_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0385,P0385_T2,P0385_T2_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0385,P0385_T2,P0385_T2_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0385,P0385_T2,P0385_T2_4,4,supported,Supported,Not Supported
+P0385,P0385_T2,P0385_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0386,P0386_T1,P0386_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0386,P0386_T1,P0386_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0386,P0386_T1,P0386_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0386,P0386_T1,P0386_T1_4,4,supported,Supported,Not Supported
+P0386,P0386_T1,P0386_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0052,P0052_T1,P0052_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0052,P0052_T1,P0052_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0052,P0052_T1,P0052_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0052,P0052_T1,P0052_T1_4,4,supported,Supported,Supported
+P0052,P0052_T1,P0052_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0052,P0052_T2,P0052_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0052,P0052_T2,P0052_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0052,P0052_T2,P0052_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0052,P0052_T2,P0052_T2_4,4,supported,Supported,Supported
+P0052,P0052_T2,P0052_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0052,P0052_T3,P0052_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0052,P0052_T3,P0052_T3_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0052,P0052_T3,P0052_T3_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0052,P0052_T3,P0052_T3_4,4,supported,Supported,Supported
+P0052,P0052_T3,P0052_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0261,P0261_T4,P0261_T4_1,1,relation_contradicted,Not Supported,Not Supported
+P0261,P0261_T4,P0261_T4_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0261,P0261_T4,P0261_T4_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0261,P0261_T4,P0261_T4_4,4,supported,Supported,Supported
+P0261,P0261_T4,P0261_T4_5,5,condition_contradicted,Not Supported,Not Supported
+P0261,P0261_T5,P0261_T5_1,1,relation_contradicted,Not Supported,Not Supported
+P0261,P0261_T5,P0261_T5_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0261,P0261_T5,P0261_T5_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0261,P0261_T5,P0261_T5_4,4,supported,Supported,Supported
+P0261,P0261_T5,P0261_T5_5,5,condition_contradicted,Not Supported,Not Supported
+P0388,P0388_T1,P0388_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0388,P0388_T1,P0388_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0388,P0388_T1,P0388_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0388,P0388_T1,P0388_T1_4,4,supported,Supported,Not Supported
+P0388,P0388_T1,P0388_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0388,P0388_T2,P0388_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0388,P0388_T2,P0388_T2_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0388,P0388_T2,P0388_T2_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0388,P0388_T2,P0388_T2_4,4,supported,Supported,Not Supported
+P0388,P0388_T2,P0388_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0163,P0163_T3,P0163_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0163,P0163_T3,P0163_T3_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0163,P0163_T3,P0163_T3_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0163,P0163_T3,P0163_T3_4,4,supported,Supported,Not Supported
+P0163,P0163_T3,P0163_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0163,P0163_T4,P0163_T4_1,1,relation_contradicted,Not Supported,Not Supported
+P0163,P0163_T4,P0163_T4_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0163,P0163_T4,P0163_T4_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0163,P0163_T4,P0163_T4_4,4,supported,Supported,Not Supported
+P0163,P0163_T4,P0163_T4_5,5,condition_contradicted,Not Supported,Not Supported
+P0163,P0163_T5,P0163_T5_1,1,relation_contradicted,Not Supported,Not Supported
+P0163,P0163_T5,P0163_T5_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0163,P0163_T5,P0163_T5_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0163,P0163_T5,P0163_T5_4,4,supported,Supported,Not Supported
+P0163,P0163_T5,P0163_T5_5,5,condition_contradicted,Not Supported,Not Supported
+P0163,P0163_T6,P0163_T6_1,1,relation_contradicted,Not Supported,Not Supported
+P0163,P0163_T6,P0163_T6_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0163,P0163_T6,P0163_T6_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0163,P0163_T6,P0163_T6_4,4,supported,Supported,Not Supported
+P0163,P0163_T6,P0163_T6_5,5,condition_contradicted,Not Supported,Not Supported
+P0163,P0163_T7,P0163_T7_1,1,relation_contradicted,Not Supported,Not Supported
+P0163,P0163_T7,P0163_T7_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0163,P0163_T7,P0163_T7_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0163,P0163_T7,P0163_T7_4,4,supported,Supported,Not Supported
+P0163,P0163_T7,P0163_T7_5,5,condition_contradicted,Not Supported,Not Supported
+P0163,P0163_T8,P0163_T8_1,1,relation_contradicted,Not Supported,Not Supported
+P0163,P0163_T8,P0163_T8_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0163,P0163_T8,P0163_T8_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0163,P0163_T8,P0163_T8_4,4,supported,Supported,Not Supported
+P0163,P0163_T8,P0163_T8_5,5,condition_contradicted,Not Supported,Not Supported
+P0163,P0163_T9,P0163_T9_1,1,relation_contradicted,Not Supported,Not Supported
+P0163,P0163_T9,P0163_T9_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0163,P0163_T9,P0163_T9_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0163,P0163_T9,P0163_T9_4,4,supported,Supported,Not Supported
+P0163,P0163_T9,P0163_T9_5,5,condition_contradicted,Not Supported,Not Supported
+P0163,P0163_T10,P0163_T10_1,1,relation_contradicted,Not Supported,Not Supported
+P0163,P0163_T10,P0163_T10_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0163,P0163_T10,P0163_T10_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0163,P0163_T10,P0163_T10_4,4,supported,Supported,Not Supported
+P0163,P0163_T10,P0163_T10_5,5,condition_contradicted,Not Supported,Not Supported
+P0163,P0163_T11,P0163_T11_1,1,relation_contradicted,Not Supported,Not Supported
+P0163,P0163_T11,P0163_T11_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0163,P0163_T11,P0163_T11_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0163,P0163_T11,P0163_T11_4,4,supported,Supported,Not Supported
+P0163,P0163_T11,P0163_T11_5,5,condition_contradicted,Not Supported,Not Supported
+P0544,P0544_T1,P0544_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0544,P0544_T1,P0544_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0544,P0544_T1,P0544_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0544,P0544_T1,P0544_T1_4,4,supported,Supported,Supported
+P0544,P0544_T1,P0544_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0547,P0547_T1,P0547_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0547,P0547_T1,P0547_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0547,P0547_T1,P0547_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0547,P0547_T1,P0547_T1_4,4,supported,Supported,Supported
+P0547,P0547_T1,P0547_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0052,P0052_T4,P0052_T4_1,1,relation_contradicted,Not Supported,Not Supported
+P0052,P0052_T4,P0052_T4_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0052,P0052_T4,P0052_T4_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0052,P0052_T4,P0052_T4_4,4,supported,Supported,Supported
+P0052,P0052_T4,P0052_T4_5,5,condition_contradicted,Not Supported,Not Supported
+P0053,P0053_T1,P0053_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0053,P0053_T1,P0053_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0053,P0053_T1,P0053_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0053,P0053_T1,P0053_T1_4,4,supported,Supported,Not Supported
+P0053,P0053_T1,P0053_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0266,P0266_T1,P0266_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0266,P0266_T1,P0266_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0266,P0266_T1,P0266_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0266,P0266_T1,P0266_T1_4,4,supported,Supported,Not Supported
+P0266,P0266_T1,P0266_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0266,P0266_T2,P0266_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0266,P0266_T2,P0266_T2_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0266,P0266_T2,P0266_T2_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0266,P0266_T2,P0266_T2_4,4,supported,Supported,Not Supported
+P0266,P0266_T2,P0266_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0549,P0549_T1,P0549_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0549,P0549_T1,P0549_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0549,P0549_T1,P0549_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0549,P0549_T1,P0549_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0553,P0553_T1,P0553_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0553,P0553_T1,P0553_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0553,P0553_T1,P0553_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0553,P0553_T1,P0553_T1_4,4,supported,Supported,Supported
+P0553,P0553_T1,P0553_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0553,P0553_T2,P0553_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0553,P0553_T2,P0553_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0553,P0553_T2,P0553_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0553,P0553_T2,P0553_T2_4,4,supported,Supported,Not Supported
+P0553,P0553_T2,P0553_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0555,P0555_T1,P0555_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0555,P0555_T1,P0555_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0555,P0555_T1,P0555_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0555,P0555_T1,P0555_T1_4,4,supported,Supported,Not Supported
+P0555,P0555_T1,P0555_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0556,P0556_T1,P0556_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0556,P0556_T1,P0556_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0556,P0556_T1,P0556_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0556,P0556_T1,P0556_T1_4,4,supported,Supported,Supported
+P0556,P0556_T1,P0556_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0556,P0556_T2,P0556_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0556,P0556_T2,P0556_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0556,P0556_T2,P0556_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0556,P0556_T2,P0556_T2_4,4,supported,Supported,Supported
+P0556,P0556_T2,P0556_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0059,P0059_T1,P0059_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0059,P0059_T1,P0059_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0059,P0059_T1,P0059_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0059,P0059_T1,P0059_T1_4,4,supported,Supported,Supported
+P0059,P0059_T1,P0059_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0267,P0267_T1,P0267_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0267,P0267_T1,P0267_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0267,P0267_T1,P0267_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0267,P0267_T1,P0267_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0560,P0560_T1,P0560_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0560,P0560_T1,P0560_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0560,P0560_T1,P0560_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0560,P0560_T1,P0560_T1_4,4,supported,Supported,Supported
+P0560,P0560_T1,P0560_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0560,P0560_T2,P0560_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0560,P0560_T2,P0560_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0560,P0560_T2,P0560_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0560,P0560_T2,P0560_T2_4,4,supported,Supported,Not Supported
+P0560,P0560_T2,P0560_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0563,P0563_T1,P0563_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0563,P0563_T1,P0563_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0563,P0563_T1,P0563_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0563,P0563_T1,P0563_T1_4,4,supported,Supported,Supported
+P0563,P0563_T1,P0563_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0564,P0564_T1,P0564_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0564,P0564_T1,P0564_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0564,P0564_T1,P0564_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0564,P0564_T1,P0564_T1_4,4,supported,Supported,Supported
+P0564,P0564_T1,P0564_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0165,P0165_T1,P0165_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0165,P0165_T1,P0165_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0165,P0165_T1,P0165_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0165,P0165_T1,P0165_T1_4,4,supported,Supported,Not Supported
+P0165,P0165_T1,P0165_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0165,P0165_T2,P0165_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0165,P0165_T2,P0165_T2_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0165,P0165_T2,P0165_T2_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0165,P0165_T2,P0165_T2_4,4,supported,Supported,Not Supported
+P0165,P0165_T2,P0165_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0165,P0165_T3,P0165_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0165,P0165_T3,P0165_T3_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0165,P0165_T3,P0165_T3_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0165,P0165_T3,P0165_T3_4,4,supported,Supported,Not Supported
+P0165,P0165_T3,P0165_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0165,P0165_T4,P0165_T4_1,1,relation_contradicted,Not Supported,Not Supported
+P0165,P0165_T4,P0165_T4_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0165,P0165_T4,P0165_T4_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0165,P0165_T4,P0165_T4_4,4,supported,Supported,Not Supported
+P0165,P0165_T4,P0165_T4_5,5,condition_contradicted,Not Supported,Not Supported
+P0165,P0165_T5,P0165_T5_1,1,relation_contradicted,Not Supported,Not Supported
+P0165,P0165_T5,P0165_T5_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0165,P0165_T5,P0165_T5_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0165,P0165_T5,P0165_T5_4,4,supported,Supported,Not Supported
+P0165,P0165_T5,P0165_T5_5,5,condition_contradicted,Not Supported,Not Supported
+P0165,P0165_T6,P0165_T6_1,1,relation_contradicted,Not Supported,Not Supported
+P0165,P0165_T6,P0165_T6_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0165,P0165_T6,P0165_T6_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0165,P0165_T6,P0165_T6_4,4,supported,Supported,Not Supported
+P0165,P0165_T6,P0165_T6_5,5,condition_contradicted,Not Supported,Not Supported
+P0165,P0165_T7,P0165_T7_1,1,relation_contradicted,Not Supported,Not Supported
+P0165,P0165_T7,P0165_T7_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0165,P0165_T7,P0165_T7_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0165,P0165_T7,P0165_T7_4,4,supported,Supported,Not Supported
+P0165,P0165_T7,P0165_T7_5,5,condition_contradicted,Not Supported,Not Supported
+P0165,P0165_T8,P0165_T8_1,1,relation_contradicted,Not Supported,Not Supported
+P0165,P0165_T8,P0165_T8_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0165,P0165_T8,P0165_T8_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0165,P0165_T8,P0165_T8_4,4,supported,Supported,Not Supported
+P0165,P0165_T8,P0165_T8_5,5,condition_contradicted,Not Supported,Not Supported
+P0167,P0167_T1,P0167_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0167,P0167_T1,P0167_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0167,P0167_T1,P0167_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0167,P0167_T1,P0167_T1_4,4,supported,Supported,Supported
+P0167,P0167_T1,P0167_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0400,P0400_T2,P0400_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0400,P0400_T2,P0400_T2_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0400,P0400_T2,P0400_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0400,P0400_T2,P0400_T2_4,4,supported,Supported,Not Supported
+P0400,P0400_T2,P0400_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0401,P0401_T1,P0401_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0401,P0401_T1,P0401_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0401,P0401_T1,P0401_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0401,P0401_T1,P0401_T1_4,4,supported,Supported,Not Supported
+P0401,P0401_T1,P0401_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0062,P0062_T1,P0062_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0062,P0062_T1,P0062_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0062,P0062_T1,P0062_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0062,P0062_T1,P0062_T1_4,4,supported,Supported,Supported
+P0062,P0062_T1,P0062_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0062,P0062_T2,P0062_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0062,P0062_T2,P0062_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0062,P0062_T2,P0062_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0062,P0062_T2,P0062_T2_4,4,supported,Supported,Not Supported
+P0062,P0062_T2,P0062_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0062,P0062_T3,P0062_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0062,P0062_T3,P0062_T3_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0062,P0062_T3,P0062_T3_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0062,P0062_T3,P0062_T3_4,4,supported,Supported,Not Supported
+P0062,P0062_T3,P0062_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0062,P0062_T4,P0062_T4_1,1,relation_contradicted,Not Supported,Not Supported
+P0062,P0062_T4,P0062_T4_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0062,P0062_T4,P0062_T4_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0062,P0062_T4,P0062_T4_4,4,supported,Supported,Not Supported
+P0062,P0062_T4,P0062_T4_5,5,condition_contradicted,Not Supported,Not Supported
+P0062,P0062_T5,P0062_T5_1,1,relation_contradicted,Not Supported,Not Supported
+P0062,P0062_T5,P0062_T5_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0062,P0062_T5,P0062_T5_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0062,P0062_T5,P0062_T5_4,4,supported,Supported,Supported
+P0062,P0062_T5,P0062_T5_5,5,condition_contradicted,Not Supported,Not Supported
+P0065,P0065_T1,P0065_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0065,P0065_T1,P0065_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0065,P0065_T1,P0065_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0065,P0065_T1,P0065_T1_4,4,supported,Supported,Supported
+P0065,P0065_T1,P0065_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0573,P0573_T1,P0573_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0573,P0573_T1,P0573_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0573,P0573_T1,P0573_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0573,P0573_T1,P0573_T1_4,4,supported,Supported,Supported
+P0573,P0573_T1,P0573_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0573,P0573_T2,P0573_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0573,P0573_T2,P0573_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0573,P0573_T2,P0573_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0573,P0573_T2,P0573_T2_4,4,supported,Supported,Supported
+P0573,P0573_T2,P0573_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0170,P0170_T1,P0170_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0170,P0170_T1,P0170_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0170,P0170_T1,P0170_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0170,P0170_T1,P0170_T1_4,4,supported,Supported,Supported
+P0170,P0170_T1,P0170_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0170,P0170_T2,P0170_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0170,P0170_T2,P0170_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0170,P0170_T2,P0170_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0170,P0170_T2,P0170_T2_4,4,supported,Supported,Supported
+P0170,P0170_T2,P0170_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0170,P0170_T3,P0170_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0170,P0170_T3,P0170_T3_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0170,P0170_T3,P0170_T3_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0170,P0170_T3,P0170_T3_4,4,supported,Supported,Supported
+P0170,P0170_T3,P0170_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0170,P0170_T4,P0170_T4_1,1,relation_contradicted,Not Supported,Not Supported
+P0170,P0170_T4,P0170_T4_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0170,P0170_T4,P0170_T4_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0170,P0170_T4,P0170_T4_4,4,supported,Supported,Supported
+P0170,P0170_T4,P0170_T4_5,5,condition_contradicted,Not Supported,Not Supported
+P0170,P0170_T5,P0170_T5_1,1,relation_contradicted,Not Supported,Not Supported
+P0170,P0170_T5,P0170_T5_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0170,P0170_T5,P0170_T5_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0170,P0170_T5,P0170_T5_4,4,supported,Supported,Supported
+P0170,P0170_T5,P0170_T5_5,5,condition_contradicted,Not Supported,Not Supported
+P0405,P0405_T1,P0405_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0405,P0405_T1,P0405_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0405,P0405_T1,P0405_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0405,P0405_T1,P0405_T1_4,4,supported,Supported,Not Supported
+P0405,P0405_T1,P0405_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0578,P0578_T1,P0578_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0578,P0578_T1,P0578_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0578,P0578_T1,P0578_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0578,P0578_T1,P0578_T1_4,4,supported,Supported,Supported
+P0578,P0578_T1,P0578_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0582,P0582_T1,P0582_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0582,P0582_T1,P0582_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0582,P0582_T1,P0582_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0582,P0582_T1,P0582_T1_4,4,supported,Supported,Supported
+P0582,P0582_T1,P0582_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0409,P0409_T1,P0409_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0409,P0409_T1,P0409_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0409,P0409_T1,P0409_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0409,P0409_T1,P0409_T1_4,4,supported,Supported,Supported
+P0409,P0409_T1,P0409_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0409,P0409_T2,P0409_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0409,P0409_T2,P0409_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0409,P0409_T2,P0409_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0409,P0409_T2,P0409_T2_4,4,supported,Supported,Supported
+P0409,P0409_T2,P0409_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0170,P0170_T6,P0170_T6_1,1,relation_contradicted,Not Supported,Not Supported
+P0170,P0170_T6,P0170_T6_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0170,P0170_T6,P0170_T6_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0170,P0170_T6,P0170_T6_4,4,supported,Supported,Supported
+P0170,P0170_T6,P0170_T6_5,5,condition_contradicted,Not Supported,Not Supported
+P0171,P0171_T1,P0171_T1_1,1,relation_contradicted,Not Supported,Supported
+P0171,P0171_T1,P0171_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0171,P0171_T1,P0171_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0171,P0171_T1,P0171_T1_4,4,supported,Supported,Not Supported
+P0171,P0171_T1,P0171_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0171,P0171_T2,P0171_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0171,P0171_T2,P0171_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0171,P0171_T2,P0171_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0171,P0171_T2,P0171_T2_4,4,supported,Supported,Supported
+P0171,P0171_T2,P0171_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0173,P0173_T1,P0173_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0173,P0173_T1,P0173_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0173,P0173_T1,P0173_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0173,P0173_T1,P0173_T1_4,4,supported,Supported,Supported
+P0173,P0173_T1,P0173_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0173,P0173_T2,P0173_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0173,P0173_T2,P0173_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0173,P0173_T2,P0173_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0173,P0173_T2,P0173_T2_4,4,supported,Supported,Not Supported
+P0173,P0173_T2,P0173_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0173,P0173_T3,P0173_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0173,P0173_T3,P0173_T3_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0173,P0173_T3,P0173_T3_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0173,P0173_T3,P0173_T3_4,4,supported,Supported,Supported
+P0173,P0173_T3,P0173_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0174,P0174_T1,P0174_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0174,P0174_T1,P0174_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0174,P0174_T1,P0174_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0174,P0174_T1,P0174_T1_4,4,supported,Supported,Not Supported
+P0174,P0174_T1,P0174_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0584,P0584_T1,P0584_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0584,P0584_T1,P0584_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0584,P0584_T1,P0584_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0584,P0584_T1,P0584_T1_4,4,supported,Supported,Supported
+P0584,P0584_T1,P0584_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0585,P0585_T1,P0585_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0585,P0585_T1,P0585_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0585,P0585_T1,P0585_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0585,P0585_T1,P0585_T1_4,4,supported,Supported,Not Supported
+P0585,P0585_T1,P0585_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0585,P0585_T2,P0585_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0585,P0585_T2,P0585_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0585,P0585_T2,P0585_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0585,P0585_T2,P0585_T2_4,4,supported,Supported,Supported
+P0585,P0585_T2,P0585_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0586,P0586_T1,P0586_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0586,P0586_T1,P0586_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0586,P0586_T1,P0586_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0586,P0586_T1,P0586_T1_4,4,supported,Supported,Supported
+P0586,P0586_T1,P0586_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0588,P0588_T1,P0588_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0588,P0588_T1,P0588_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0588,P0588_T1,P0588_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0588,P0588_T1,P0588_T1_4,4,supported,Supported,Not Enough Evidence
+P0588,P0588_T1,P0588_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0591,P0591_T1,P0591_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0591,P0591_T1,P0591_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0591,P0591_T1,P0591_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0591,P0591_T1,P0591_T1_4,4,supported,Supported,Supported
+P0591,P0591_T1,P0591_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0592,P0592_T1,P0592_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0592,P0592_T1,P0592_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0592,P0592_T1,P0592_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0592,P0592_T1,P0592_T1_4,4,supported,Supported,Not Enough Evidence
+P0592,P0592_T1,P0592_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0412,P0412_T1,P0412_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0412,P0412_T1,P0412_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0412,P0412_T1,P0412_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0412,P0412_T1,P0412_T1_4,4,supported,Supported,Not Supported
+P0412,P0412_T1,P0412_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0412,P0412_T2,P0412_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0412,P0412_T2,P0412_T2_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0412,P0412_T2,P0412_T2_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0412,P0412_T2,P0412_T2_4,4,supported,Supported,Not Supported
+P0412,P0412_T2,P0412_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0412,P0412_T3,P0412_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0412,P0412_T3,P0412_T3_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0412,P0412_T3,P0412_T3_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0412,P0412_T3,P0412_T3_4,4,supported,Supported,Not Supported
+P0412,P0412_T3,P0412_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0174,P0174_T2,P0174_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0174,P0174_T2,P0174_T2_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0174,P0174_T2,P0174_T2_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0174,P0174_T2,P0174_T2_4,4,supported,Supported,Not Supported
+P0174,P0174_T2,P0174_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0174,P0174_T3,P0174_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0174,P0174_T3,P0174_T3_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0174,P0174_T3,P0174_T3_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0174,P0174_T3,P0174_T3_4,4,supported,Supported,Not Supported
+P0174,P0174_T3,P0174_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0174,P0174_T4,P0174_T4_1,1,relation_contradicted,Not Supported,Not Supported
+P0174,P0174_T4,P0174_T4_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0174,P0174_T4,P0174_T4_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0174,P0174_T4,P0174_T4_4,4,supported,Supported,Not Supported
+P0174,P0174_T4,P0174_T4_5,5,condition_contradicted,Not Supported,Not Supported
+P0174,P0174_T5,P0174_T5_1,1,relation_contradicted,Not Supported,Not Supported
+P0174,P0174_T5,P0174_T5_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0174,P0174_T5,P0174_T5_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0174,P0174_T5,P0174_T5_4,4,supported,Supported,Not Supported
+P0174,P0174_T5,P0174_T5_5,5,condition_contradicted,Not Supported,Not Supported
+P0174,P0174_T6,P0174_T6_1,1,relation_contradicted,Not Supported,Not Supported
+P0174,P0174_T6,P0174_T6_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0174,P0174_T6,P0174_T6_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0174,P0174_T6,P0174_T6_4,4,supported,Supported,Not Supported
+P0174,P0174_T6,P0174_T6_5,5,condition_contradicted,Not Supported,Not Supported
+P0175,P0175_T1,P0175_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0175,P0175_T1,P0175_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0175,P0175_T1,P0175_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0175,P0175_T1,P0175_T1_4,4,supported,Supported,Not Supported
+P0175,P0175_T1,P0175_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0175,P0175_T2,P0175_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0175,P0175_T2,P0175_T2_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0175,P0175_T2,P0175_T2_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0175,P0175_T2,P0175_T2_4,4,supported,Supported,Not Supported
+P0175,P0175_T2,P0175_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0175,P0175_T3,P0175_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0175,P0175_T3,P0175_T3_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0175,P0175_T3,P0175_T3_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0175,P0175_T3,P0175_T3_4,4,supported,Supported,Not Supported
+P0175,P0175_T3,P0175_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0594,P0594_T1,P0594_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0594,P0594_T1,P0594_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0594,P0594_T1,P0594_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0594,P0594_T1,P0594_T1_4,4,supported,Supported,Supported
+P0594,P0594_T1,P0594_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0596,P0596_T1,P0596_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0596,P0596_T1,P0596_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0596,P0596_T1,P0596_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0596,P0596_T1,P0596_T1_4,4,supported,Supported,Supported
+P0596,P0596_T1,P0596_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0600,P0600_T1,P0600_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0600,P0600_T1,P0600_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0600,P0600_T1,P0600_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0600,P0600_T1,P0600_T1_4,4,supported,Supported,Supported
+P0600,P0600_T1,P0600_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0412,P0412_T5,P0412_T5_1,1,relation_contradicted,Not Supported,Not Supported
+P0412,P0412_T5,P0412_T5_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0412,P0412_T5,P0412_T5_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0412,P0412_T5,P0412_T5_4,4,supported,Supported,Not Supported
+P0412,P0412_T5,P0412_T5_5,5,condition_contradicted,Not Supported,Not Supported
+P0414,P0414_T1,P0414_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0414,P0414_T1,P0414_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0414,P0414_T1,P0414_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0414,P0414_T1,P0414_T1_4,4,supported,Supported,Not Supported
+P0414,P0414_T1,P0414_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0414,P0414_T2,P0414_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0414,P0414_T2,P0414_T2_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0414,P0414_T2,P0414_T2_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0414,P0414_T2,P0414_T2_4,4,supported,Supported,Not Supported
+P0414,P0414_T2,P0414_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0414,P0414_T3,P0414_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0414,P0414_T3,P0414_T3_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0414,P0414_T3,P0414_T3_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0414,P0414_T3,P0414_T3_4,4,supported,Supported,Not Supported
+P0414,P0414_T3,P0414_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0415,P0415_T1,P0415_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0415,P0415_T1,P0415_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0415,P0415_T1,P0415_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0415,P0415_T1,P0415_T1_4,4,supported,Supported,Not Supported
+P0415,P0415_T1,P0415_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0415,P0415_T2,P0415_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0415,P0415_T2,P0415_T2_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0415,P0415_T2,P0415_T2_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0415,P0415_T2,P0415_T2_4,4,supported,Supported,Not Supported
+P0415,P0415_T2,P0415_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0179,P0179_T1,P0179_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0179,P0179_T1,P0179_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0179,P0179_T1,P0179_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0179,P0179_T1,P0179_T1_4,4,supported,Supported,Supported
+P0179,P0179_T1,P0179_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0179,P0179_T2,P0179_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0179,P0179_T2,P0179_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0179,P0179_T2,P0179_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0179,P0179_T2,P0179_T2_4,4,supported,Supported,Supported
+P0179,P0179_T2,P0179_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0074,P0074_T1,P0074_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0074,P0074_T1,P0074_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0074,P0074_T1,P0074_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0074,P0074_T1,P0074_T1_4,4,supported,Supported,Not Supported
+P0074,P0074_T1,P0074_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0074,P0074_T2,P0074_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0074,P0074_T2,P0074_T2_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0074,P0074_T2,P0074_T2_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0074,P0074_T2,P0074_T2_4,4,supported,Supported,Not Supported
+P0074,P0074_T2,P0074_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0074,P0074_T3,P0074_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0074,P0074_T3,P0074_T3_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0074,P0074_T3,P0074_T3_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0074,P0074_T3,P0074_T3_4,4,supported,Supported,Not Supported
+P0074,P0074_T3,P0074_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0074,P0074_T4,P0074_T4_1,1,relation_contradicted,Not Supported,Not Supported
+P0074,P0074_T4,P0074_T4_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0074,P0074_T4,P0074_T4_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0074,P0074_T4,P0074_T4_4,4,supported,Supported,Not Supported
+P0074,P0074_T4,P0074_T4_5,5,condition_contradicted,Not Supported,Not Supported
+P0275,P0275_T1,P0275_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0275,P0275_T1,P0275_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0275,P0275_T1,P0275_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0275,P0275_T1,P0275_T1_4,4,supported,Supported,Not Supported
+P0275,P0275_T1,P0275_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0275,P0275_T2,P0275_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0275,P0275_T2,P0275_T2_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0275,P0275_T2,P0275_T2_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0275,P0275_T2,P0275_T2_4,4,supported,Supported,Not Supported
+P0275,P0275_T2,P0275_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0275,P0275_T3,P0275_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0275,P0275_T3,P0275_T3_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0275,P0275_T3,P0275_T3_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0275,P0275_T3,P0275_T3_4,4,supported,Supported,Not Supported
+P0275,P0275_T3,P0275_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0275,P0275_T4,P0275_T4_1,1,relation_contradicted,Not Supported,Not Supported
+P0275,P0275_T4,P0275_T4_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0275,P0275_T4,P0275_T4_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0275,P0275_T4,P0275_T4_4,4,supported,Supported,Not Supported
+P0275,P0275_T4,P0275_T4_5,5,condition_contradicted,Not Supported,Not Supported
+P0275,P0275_T5,P0275_T5_1,1,relation_contradicted,Not Supported,Not Supported
+P0275,P0275_T5,P0275_T5_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0275,P0275_T5,P0275_T5_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0275,P0275_T5,P0275_T5_4,4,supported,Supported,Not Supported
+P0275,P0275_T5,P0275_T5_5,5,condition_contradicted,Not Supported,Not Supported
+P0276,P0276_T1,P0276_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0276,P0276_T1,P0276_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0276,P0276_T1,P0276_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0276,P0276_T1,P0276_T1_4,4,supported,Supported,Supported
+P0276,P0276_T1,P0276_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0277,P0277_T1,P0277_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0277,P0277_T1,P0277_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0277,P0277_T1,P0277_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0277,P0277_T1,P0277_T1_4,4,supported,Supported,Not Supported
+P0277,P0277_T1,P0277_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0421,P0421_T1,P0421_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0421,P0421_T1,P0421_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0421,P0421_T1,P0421_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0421,P0421_T1,P0421_T1_4,4,supported,Supported,Not Supported
+P0421,P0421_T1,P0421_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0421,P0421_T2,P0421_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0421,P0421_T2,P0421_T2_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0421,P0421_T2,P0421_T2_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0421,P0421_T2,P0421_T2_4,4,supported,Supported,Not Supported
+P0421,P0421_T2,P0421_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0182,P0182_T1,P0182_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0182,P0182_T1,P0182_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0182,P0182_T1,P0182_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0182,P0182_T1,P0182_T1_4,4,supported,Supported,Supported
+P0182,P0182_T1,P0182_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0182,P0182_T2,P0182_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0182,P0182_T2,P0182_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0182,P0182_T2,P0182_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0182,P0182_T2,P0182_T2_4,4,supported,Supported,Supported
+P0182,P0182_T2,P0182_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0182,P0182_T3,P0182_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0182,P0182_T3,P0182_T3_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0182,P0182_T3,P0182_T3_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0182,P0182_T3,P0182_T3_4,4,supported,Supported,Supported
+P0182,P0182_T3,P0182_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0077,P0077_T1,P0077_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0077,P0077_T1,P0077_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0077,P0077_T1,P0077_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0077,P0077_T1,P0077_T1_4,4,supported,Supported,Not Supported
+P0077,P0077_T1,P0077_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0077,P0077_T2,P0077_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0077,P0077_T2,P0077_T2_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0077,P0077_T2,P0077_T2_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0077,P0077_T2,P0077_T2_4,4,supported,Supported,Not Supported
+P0077,P0077_T2,P0077_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0077,P0077_T3,P0077_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0077,P0077_T3,P0077_T3_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0077,P0077_T3,P0077_T3_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0077,P0077_T3,P0077_T3_4,4,supported,Supported,Not Supported
+P0077,P0077_T3,P0077_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0077,P0077_T4,P0077_T4_1,1,relation_contradicted,Not Supported,Not Supported
+P0077,P0077_T4,P0077_T4_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0077,P0077_T4,P0077_T4_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0077,P0077_T4,P0077_T4_4,4,supported,Supported,Not Supported
+P0077,P0077_T4,P0077_T4_5,5,condition_contradicted,Not Supported,Not Supported
+P0077,P0077_T5,P0077_T5_1,1,relation_contradicted,Not Supported,Not Supported
+P0077,P0077_T5,P0077_T5_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0077,P0077_T5,P0077_T5_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0077,P0077_T5,P0077_T5_4,4,supported,Supported,Not Supported
+P0077,P0077_T5,P0077_T5_5,5,condition_contradicted,Not Supported,Not Supported
+P0603,P0603_T1,P0603_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0603,P0603_T1,P0603_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0603,P0603_T1,P0603_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0603,P0603_T1,P0603_T1_4,4,supported,Supported,Supported
+P0603,P0603_T1,P0603_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0604,P0604_T1,P0604_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0604,P0604_T1,P0604_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0604,P0604_T1,P0604_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0604,P0604_T1,P0604_T1_4,4,supported,Supported,Not Supported
+P0604,P0604_T1,P0604_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0604,P0604_T2,P0604_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0604,P0604_T2,P0604_T2_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0604,P0604_T2,P0604_T2_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0604,P0604_T2,P0604_T2_4,4,supported,Supported,Not Supported
+P0604,P0604_T2,P0604_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0604,P0604_T3,P0604_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0604,P0604_T3,P0604_T3_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0604,P0604_T3,P0604_T3_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0604,P0604_T3,P0604_T3_4,4,supported,Supported,Not Supported
+P0604,P0604_T3,P0604_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0604,P0604_T4,P0604_T4_1,1,relation_contradicted,Not Supported,Not Supported
+P0604,P0604_T4,P0604_T4_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0604,P0604_T4,P0604_T4_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0604,P0604_T4,P0604_T4_4,4,supported,Supported,Not Supported
+P0604,P0604_T4,P0604_T4_5,5,condition_contradicted,Not Supported,Not Supported
+P0606,P0606_T1,P0606_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0606,P0606_T1,P0606_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0606,P0606_T1,P0606_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0606,P0606_T1,P0606_T1_4,4,supported,Supported,Not Supported
+P0606,P0606_T1,P0606_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0607,P0607_T1,P0607_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0607,P0607_T1,P0607_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0607,P0607_T1,P0607_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0607,P0607_T1,P0607_T1_4,4,supported,Supported,Supported
+P0607,P0607_T1,P0607_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0191,P0191_T1,P0191_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0191,P0191_T1,P0191_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0191,P0191_T1,P0191_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0191,P0191_T1,P0191_T1_4,4,supported,Supported,Not Supported
+P0191,P0191_T1,P0191_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0421,P0421_T3,P0421_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0421,P0421_T3,P0421_T3_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0421,P0421_T3,P0421_T3_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0421,P0421_T3,P0421_T3_4,4,supported,Supported,Not Supported
+P0421,P0421_T3,P0421_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0421,P0421_T4,P0421_T4_1,1,relation_contradicted,Not Supported,Not Supported
+P0421,P0421_T4,P0421_T4_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0421,P0421_T4,P0421_T4_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0421,P0421_T4,P0421_T4_4,4,supported,Supported,Not Supported
+P0421,P0421_T4,P0421_T4_5,5,condition_contradicted,Not Supported,Not Supported
+P0421,P0421_T5,P0421_T5_1,1,relation_contradicted,Not Supported,Not Supported
+P0421,P0421_T5,P0421_T5_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0421,P0421_T5,P0421_T5_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0421,P0421_T5,P0421_T5_4,4,supported,Supported,Not Supported
+P0421,P0421_T5,P0421_T5_5,5,condition_contradicted,Not Supported,Not Supported
+P0421,P0421_T6,P0421_T6_1,1,relation_contradicted,Not Supported,Not Supported
+P0421,P0421_T6,P0421_T6_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0421,P0421_T6,P0421_T6_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0421,P0421_T6,P0421_T6_4,4,supported,Supported,Not Supported
+P0421,P0421_T6,P0421_T6_5,5,condition_contradicted,Not Supported,Not Supported
+P0423,P0423_T1,P0423_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0423,P0423_T1,P0423_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0423,P0423_T1,P0423_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0423,P0423_T1,P0423_T1_4,4,supported,Supported,Not Supported
+P0423,P0423_T1,P0423_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0423,P0423_T2,P0423_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0423,P0423_T2,P0423_T2_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0423,P0423_T2,P0423_T2_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0423,P0423_T2,P0423_T2_4,4,supported,Supported,Not Supported
+P0423,P0423_T2,P0423_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0080,P0080_T1,P0080_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0080,P0080_T1,P0080_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0080,P0080_T1,P0080_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0080,P0080_T1,P0080_T1_4,4,supported,Supported,Supported
+P0080,P0080_T1,P0080_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0080,P0080_T2,P0080_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0080,P0080_T2,P0080_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0080,P0080_T2,P0080_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0080,P0080_T2,P0080_T2_4,4,supported,Supported,Supported
+P0080,P0080_T2,P0080_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0080,P0080_T3,P0080_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0080,P0080_T3,P0080_T3_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0080,P0080_T3,P0080_T3_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0080,P0080_T3,P0080_T3_4,4,supported,Supported,Supported
+P0080,P0080_T3,P0080_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0080,P0080_T4,P0080_T4_1,1,relation_contradicted,Not Supported,Not Supported
+P0080,P0080_T4,P0080_T4_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0080,P0080_T4,P0080_T4_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0080,P0080_T4,P0080_T4_4,4,supported,Supported,Supported
+P0080,P0080_T4,P0080_T4_5,5,condition_contradicted,Not Supported,Not Supported
+P0081,P0081_T1,P0081_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0081,P0081_T1,P0081_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0081,P0081_T1,P0081_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0081,P0081_T1,P0081_T1_4,4,supported,Supported,Supported
+P0081,P0081_T1,P0081_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0620,P0620_T1,P0620_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0620,P0620_T1,P0620_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0620,P0620_T1,P0620_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0620,P0620_T1,P0620_T1_4,4,supported,Supported,Supported
+P0620,P0620_T1,P0620_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0624,P0624_T1,P0624_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0624,P0624_T1,P0624_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0624,P0624_T1,P0624_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0624,P0624_T1,P0624_T1_4,4,supported,Supported,Not Supported
+P0624,P0624_T1,P0624_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0624,P0624_T2,P0624_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0624,P0624_T2,P0624_T2_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0624,P0624_T2,P0624_T2_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0624,P0624_T2,P0624_T2_4,4,supported,Supported,Not Supported
+P0624,P0624_T2,P0624_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0624,P0624_T3,P0624_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0624,P0624_T3,P0624_T3_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0624,P0624_T3,P0624_T3_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0624,P0624_T3,P0624_T3_4,4,supported,Supported,Not Supported
+P0624,P0624_T3,P0624_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0281,P0281_T1,P0281_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0281,P0281_T1,P0281_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0281,P0281_T1,P0281_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0281,P0281_T1,P0281_T1_4,4,supported,Supported,Not Supported
+P0281,P0281_T1,P0281_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0281,P0281_T2,P0281_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0281,P0281_T2,P0281_T2_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0281,P0281_T2,P0281_T2_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0281,P0281_T2,P0281_T2_4,4,supported,Supported,Not Supported
+P0281,P0281_T2,P0281_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0281,P0281_T3,P0281_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0281,P0281_T3,P0281_T3_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0281,P0281_T3,P0281_T3_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0281,P0281_T3,P0281_T3_4,4,supported,Supported,Not Supported
+P0281,P0281_T3,P0281_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0281,P0281_T4,P0281_T4_1,1,relation_contradicted,Not Supported,Not Supported
+P0281,P0281_T4,P0281_T4_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0281,P0281_T4,P0281_T4_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0281,P0281_T4,P0281_T4_4,4,supported,Supported,Not Supported
+P0281,P0281_T4,P0281_T4_5,5,condition_contradicted,Not Supported,Not Supported
+P0281,P0281_T5,P0281_T5_1,1,relation_contradicted,Not Supported,Not Supported
+P0281,P0281_T5,P0281_T5_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0281,P0281_T5,P0281_T5_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0281,P0281_T5,P0281_T5_4,4,supported,Supported,Not Supported
+P0281,P0281_T5,P0281_T5_5,5,condition_contradicted,Not Supported,Not Supported
+P0610,P0610_T1,P0610_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0610,P0610_T1,P0610_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0610,P0610_T1,P0610_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0610,P0610_T1,P0610_T1_4,4,supported,Supported,Supported
+P0610,P0610_T1,P0610_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0611,P0611_T1,P0611_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0611,P0611_T1,P0611_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0611,P0611_T1,P0611_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0611,P0611_T1,P0611_T1_4,4,supported,Supported,Supported
+P0611,P0611_T1,P0611_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0613,P0613_T1,P0613_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0613,P0613_T1,P0613_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0613,P0613_T1,P0613_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0613,P0613_T1,P0613_T1_4,4,supported,Supported,Not Supported
+P0613,P0613_T1,P0613_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0614,P0614_T1,P0614_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0614,P0614_T1,P0614_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0614,P0614_T1,P0614_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0614,P0614_T1,P0614_T1_4,4,supported,Supported,Supported
+P0614,P0614_T1,P0614_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0615,P0615_T1,P0615_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0615,P0615_T1,P0615_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0615,P0615_T1,P0615_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0615,P0615_T1,P0615_T1_4,4,supported,Supported,Supported
+P0615,P0615_T1,P0615_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0191,P0191_T2,P0191_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0191,P0191_T2,P0191_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0191,P0191_T2,P0191_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0191,P0191_T2,P0191_T2_4,4,supported,Supported,Supported
+P0191,P0191_T2,P0191_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0195,P0195_T1,P0195_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0195,P0195_T1,P0195_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0195,P0195_T1,P0195_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0195,P0195_T1,P0195_T1_4,4,supported,Supported,Not Supported
+P0195,P0195_T1,P0195_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0195,P0195_T2,P0195_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0195,P0195_T2,P0195_T2_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0195,P0195_T2,P0195_T2_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0195,P0195_T2,P0195_T2_4,4,supported,Supported,Not Supported
+P0195,P0195_T2,P0195_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0195,P0195_T3,P0195_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0195,P0195_T3,P0195_T3_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0195,P0195_T3,P0195_T3_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0195,P0195_T3,P0195_T3_4,4,supported,Supported,Not Supported
+P0195,P0195_T3,P0195_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0195,P0195_T4,P0195_T4_1,1,relation_contradicted,Not Supported,Not Supported
+P0195,P0195_T4,P0195_T4_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0195,P0195_T4,P0195_T4_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0195,P0195_T4,P0195_T4_4,4,supported,Supported,Not Supported
+P0195,P0195_T4,P0195_T4_5,5,condition_contradicted,Not Supported,Not Supported
+P0195,P0195_T5,P0195_T5_1,1,relation_contradicted,Not Supported,Not Supported
+P0195,P0195_T5,P0195_T5_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0195,P0195_T5,P0195_T5_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0195,P0195_T5,P0195_T5_4,4,supported,Supported,Not Supported
+P0195,P0195_T5,P0195_T5_5,5,condition_contradicted,Not Supported,Not Supported
+P0426,P0426_T1,P0426_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0426,P0426_T1,P0426_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0426,P0426_T1,P0426_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0426,P0426_T1,P0426_T1_4,4,supported,Supported,Not Supported
+P0426,P0426_T1,P0426_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0427,P0427_T1,P0427_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0427,P0427_T1,P0427_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0427,P0427_T1,P0427_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0427,P0427_T1,P0427_T1_4,4,supported,Supported,Supported
+P0427,P0427_T1,P0427_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0428,P0428_T1,P0428_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0428,P0428_T1,P0428_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0428,P0428_T1,P0428_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0428,P0428_T1,P0428_T1_4,4,supported,Supported,Not Supported
+P0428,P0428_T1,P0428_T1_5,5,condition_contradicted,Not Supported,Not Enough Evidence
+P0428,P0428_T2,P0428_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0428,P0428_T2,P0428_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0428,P0428_T2,P0428_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0428,P0428_T2,P0428_T2_4,4,supported,Supported,Supported
+P0428,P0428_T2,P0428_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0429,P0429_T1,P0429_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0429,P0429_T1,P0429_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0429,P0429_T1,P0429_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0429,P0429_T1,P0429_T1_4,4,supported,Supported,Not Supported
+P0429,P0429_T1,P0429_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0081,P0081_T2,P0081_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0081,P0081_T2,P0081_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0081,P0081_T2,P0081_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0081,P0081_T2,P0081_T2_4,4,supported,Supported,Not Supported
+P0081,P0081_T2,P0081_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0081,P0081_T3,P0081_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0081,P0081_T3,P0081_T3_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0081,P0081_T3,P0081_T3_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0081,P0081_T3,P0081_T3_4,4,supported,Supported,Supported
+P0081,P0081_T3,P0081_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0081,P0081_T4,P0081_T4_1,1,relation_contradicted,Not Supported,Not Supported
+P0081,P0081_T4,P0081_T4_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0081,P0081_T4,P0081_T4_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0081,P0081_T4,P0081_T4_4,4,supported,Supported,Supported
+P0081,P0081_T4,P0081_T4_5,5,condition_contradicted,Not Supported,Not Supported
+P0081,P0081_T5,P0081_T5_1,1,relation_contradicted,Not Supported,Not Supported
+P0081,P0081_T5,P0081_T5_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0081,P0081_T5,P0081_T5_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0081,P0081_T5,P0081_T5_4,4,supported,Supported,Supported
+P0081,P0081_T5,P0081_T5_5,5,condition_contradicted,Not Supported,Not Supported
+P0081,P0081_T6,P0081_T6_1,1,relation_contradicted,Not Supported,Not Supported
+P0081,P0081_T6,P0081_T6_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0081,P0081_T6,P0081_T6_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0081,P0081_T6,P0081_T6_4,4,supported,Supported,Supported
+P0081,P0081_T6,P0081_T6_5,5,condition_contradicted,Not Supported,Not Supported
+P0081,P0081_T7,P0081_T7_1,1,relation_contradicted,Not Supported,Not Supported
+P0081,P0081_T7,P0081_T7_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0081,P0081_T7,P0081_T7_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0081,P0081_T7,P0081_T7_4,4,supported,Supported,Supported
+P0081,P0081_T7,P0081_T7_5,5,condition_contradicted,Not Supported,Not Supported
+P0081,P0081_T8,P0081_T8_1,1,relation_contradicted,Not Supported,Not Supported
+P0081,P0081_T8,P0081_T8_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0081,P0081_T8,P0081_T8_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0081,P0081_T8,P0081_T8_4,4,supported,Supported,Supported
+P0081,P0081_T8,P0081_T8_5,5,condition_contradicted,Not Supported,Not Supported
+P0630,P0630_T1,P0630_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0630,P0630_T1,P0630_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0630,P0630_T1,P0630_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0630,P0630_T1,P0630_T1_4,4,supported,Supported,Supported
+P0630,P0630_T1,P0630_T1_5,5,condition_contradicted,Not Supported,Not Enough Evidence
+P0634,P0634_T1,P0634_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0634,P0634_T1,P0634_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0634,P0634_T1,P0634_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0634,P0634_T1,P0634_T1_4,4,supported,Supported,Supported
+P0634,P0634_T1,P0634_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0195,P0195_T6,P0195_T6_1,1,relation_contradicted,Not Supported,Not Supported
+P0195,P0195_T6,P0195_T6_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0195,P0195_T6,P0195_T6_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0195,P0195_T6,P0195_T6_4,4,supported,Supported,Not Supported
+P0195,P0195_T6,P0195_T6_5,5,condition_contradicted,Not Supported,Not Supported
+P0195,P0195_T7,P0195_T7_1,1,relation_contradicted,Not Supported,Not Supported
+P0195,P0195_T7,P0195_T7_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0195,P0195_T7,P0195_T7_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0195,P0195_T7,P0195_T7_4,4,supported,Supported,Not Supported
+P0195,P0195_T7,P0195_T7_5,5,condition_contradicted,Not Supported,Not Supported
+P0196,P0196_T1,P0196_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0196,P0196_T1,P0196_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0196,P0196_T1,P0196_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0196,P0196_T1,P0196_T1_4,4,supported,Supported,Supported
+P0196,P0196_T1,P0196_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0196,P0196_T2,P0196_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0196,P0196_T2,P0196_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0196,P0196_T2,P0196_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0196,P0196_T2,P0196_T2_4,4,supported,Supported,Supported
+P0196,P0196_T2,P0196_T2_5,5,condition_contradicted,Not Supported,Not Enough Evidence
+P0197,P0197_T1,P0197_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0197,P0197_T1,P0197_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0197,P0197_T1,P0197_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0197,P0197_T1,P0197_T1_4,4,supported,Supported,Supported
+P0197,P0197_T1,P0197_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0197,P0197_T2,P0197_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0197,P0197_T2,P0197_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0197,P0197_T2,P0197_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0197,P0197_T2,P0197_T2_4,4,supported,Supported,Supported
+P0197,P0197_T2,P0197_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0197,P0197_T3,P0197_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0197,P0197_T3,P0197_T3_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0197,P0197_T3,P0197_T3_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0197,P0197_T3,P0197_T3_4,4,supported,Supported,Not Supported
+P0197,P0197_T3,P0197_T3_5,5,condition_contradicted,Not Supported,Not Enough Evidence
+P0434,P0434_T1,P0434_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0434,P0434_T1,P0434_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0434,P0434_T1,P0434_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0434,P0434_T1,P0434_T1_4,4,supported,Supported,Supported
+P0434,P0434_T1,P0434_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0285,P0285_T1,P0285_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0285,P0285_T1,P0285_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0285,P0285_T1,P0285_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0285,P0285_T1,P0285_T1_4,4,supported,Supported,Supported
+P0285,P0285_T1,P0285_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0201,P0201_T1,P0201_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0201,P0201_T1,P0201_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0201,P0201_T1,P0201_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0201,P0201_T1,P0201_T1_4,4,supported,Supported,Supported
+P0201,P0201_T1,P0201_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0201,P0201_T2,P0201_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0201,P0201_T2,P0201_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0201,P0201_T2,P0201_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0201,P0201_T2,P0201_T2_4,4,supported,Supported,Supported
+P0201,P0201_T2,P0201_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0201,P0201_T3,P0201_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0201,P0201_T3,P0201_T3_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0201,P0201_T3,P0201_T3_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0201,P0201_T3,P0201_T3_4,4,supported,Supported,Supported
+P0201,P0201_T3,P0201_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0084,P0084_T1,P0084_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0084,P0084_T1,P0084_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0084,P0084_T1,P0084_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0084,P0084_T1,P0084_T1_4,4,supported,Supported,Supported
+P0084,P0084_T1,P0084_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0084,P0084_T2,P0084_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0084,P0084_T2,P0084_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0084,P0084_T2,P0084_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0084,P0084_T2,P0084_T2_4,4,supported,Supported,Supported
+P0084,P0084_T2,P0084_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0084,P0084_T3,P0084_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0084,P0084_T3,P0084_T3_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0084,P0084_T3,P0084_T3_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0084,P0084_T3,P0084_T3_4,4,supported,Supported,Supported
+P0084,P0084_T3,P0084_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0086,P0086_T1,P0086_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0086,P0086_T1,P0086_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0086,P0086_T1,P0086_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0086,P0086_T1,P0086_T1_4,4,supported,Supported,Not Supported
+P0086,P0086_T1,P0086_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0643,P0643_T1,P0643_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0643,P0643_T1,P0643_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0643,P0643_T1,P0643_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0643,P0643_T1,P0643_T1_4,4,supported,Supported,Not Supported
+P0643,P0643_T1,P0643_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0649,P0649_T1,P0649_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0649,P0649_T1,P0649_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0649,P0649_T1,P0649_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0649,P0649_T1,P0649_T1_4,4,supported,Supported,Not Supported
+P0649,P0649_T1,P0649_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0287,P0287_T1,P0287_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0287,P0287_T1,P0287_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0287,P0287_T1,P0287_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0287,P0287_T1,P0287_T1_4,4,supported,Supported,Supported
+P0287,P0287_T1,P0287_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0287,P0287_T2,P0287_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0287,P0287_T2,P0287_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0287,P0287_T2,P0287_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0287,P0287_T2,P0287_T2_4,4,supported,Supported,Supported
+P0287,P0287_T2,P0287_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0289,P0289_T1,P0289_T1_1,1,relation_contradicted,Not Supported,Not Enough Evidence
+P0289,P0289_T1,P0289_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0289,P0289_T1,P0289_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0289,P0289_T1,P0289_T1_4,4,supported,Supported,Not Enough Evidence
+P0289,P0289_T1,P0289_T1_5,5,condition_contradicted,Not Supported,Not Enough Evidence
+P0289,P0289_T2,P0289_T2_1,1,relation_contradicted,Not Supported,Not Enough Evidence
+P0289,P0289_T2,P0289_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0289,P0289_T2,P0289_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0289,P0289_T2,P0289_T2_4,4,supported,Supported,Not Enough Evidence
+P0289,P0289_T2,P0289_T2_5,5,condition_contradicted,Not Supported,Not Enough Evidence
+P0204,P0204_T2,P0204_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0204,P0204_T2,P0204_T2_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0204,P0204_T2,P0204_T2_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0204,P0204_T2,P0204_T2_4,4,supported,Supported,Not Supported
+P0204,P0204_T2,P0204_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0204,P0204_T3,P0204_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0204,P0204_T3,P0204_T3_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0204,P0204_T3,P0204_T3_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0204,P0204_T3,P0204_T3_4,4,supported,Supported,Not Supported
+P0204,P0204_T3,P0204_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0204,P0204_T4,P0204_T4_1,1,relation_contradicted,Not Supported,Not Supported
+P0204,P0204_T4,P0204_T4_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0204,P0204_T4,P0204_T4_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0204,P0204_T4,P0204_T4_4,4,supported,Supported,Not Supported
+P0204,P0204_T4,P0204_T4_5,5,condition_contradicted,Not Supported,Not Supported
+P0204,P0204_T5,P0204_T5_1,1,relation_contradicted,Not Supported,Not Supported
+P0204,P0204_T5,P0204_T5_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0204,P0204_T5,P0204_T5_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0204,P0204_T5,P0204_T5_4,4,supported,Supported,Not Supported
+P0204,P0204_T5,P0204_T5_5,5,condition_contradicted,Not Supported,Not Supported
+P0204,P0204_T6,P0204_T6_1,1,relation_contradicted,Not Supported,Not Supported
+P0204,P0204_T6,P0204_T6_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0204,P0204_T6,P0204_T6_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0204,P0204_T6,P0204_T6_4,4,supported,Supported,Not Supported
+P0204,P0204_T6,P0204_T6_5,5,condition_contradicted,Not Supported,Not Supported
+P0204,P0204_T7,P0204_T7_1,1,relation_contradicted,Not Supported,Not Supported
+P0204,P0204_T7,P0204_T7_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0204,P0204_T7,P0204_T7_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0204,P0204_T7,P0204_T7_4,4,supported,Supported,Not Supported
+P0204,P0204_T7,P0204_T7_5,5,condition_contradicted,Not Supported,Not Supported
+P0204,P0204_T8,P0204_T8_1,1,relation_contradicted,Not Supported,Not Supported
+P0204,P0204_T8,P0204_T8_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0204,P0204_T8,P0204_T8_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0204,P0204_T8,P0204_T8_4,4,supported,Supported,Not Supported
+P0204,P0204_T8,P0204_T8_5,5,condition_contradicted,Not Supported,Not Supported
+P0204,P0204_T9,P0204_T9_1,1,relation_contradicted,Not Supported,Not Supported
+P0204,P0204_T9,P0204_T9_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0204,P0204_T9,P0204_T9_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0204,P0204_T9,P0204_T9_4,4,supported,Supported,Not Supported
+P0204,P0204_T9,P0204_T9_5,5,condition_contradicted,Not Supported,Not Supported
+P0204,P0204_T10,P0204_T10_1,1,relation_contradicted,Not Supported,Not Supported
+P0204,P0204_T10,P0204_T10_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0204,P0204_T10,P0204_T10_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0204,P0204_T10,P0204_T10_4,4,supported,Supported,Not Supported
+P0204,P0204_T10,P0204_T10_5,5,condition_contradicted,Not Supported,Not Supported
+P0204,P0204_T11,P0204_T11_1,1,relation_contradicted,Not Supported,Not Supported
+P0204,P0204_T11,P0204_T11_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0204,P0204_T11,P0204_T11_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0204,P0204_T11,P0204_T11_4,4,supported,Supported,Not Supported
+P0204,P0204_T11,P0204_T11_5,5,condition_contradicted,Not Supported,Not Supported
+P0436,P0436_T1,P0436_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0436,P0436_T1,P0436_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0436,P0436_T1,P0436_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0436,P0436_T1,P0436_T1_4,4,supported,Supported,Not Supported
+P0436,P0436_T1,P0436_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0436,P0436_T3,P0436_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0436,P0436_T3,P0436_T3_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0436,P0436_T3,P0436_T3_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0436,P0436_T3,P0436_T3_4,4,supported,Supported,Not Supported
+P0436,P0436_T3,P0436_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0436,P0436_T5,P0436_T5_1,1,relation_contradicted,Not Supported,Not Supported
+P0436,P0436_T5,P0436_T5_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0436,P0436_T5,P0436_T5_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0436,P0436_T5,P0436_T5_4,4,supported,Supported,Not Supported
+P0436,P0436_T5,P0436_T5_5,5,condition_contradicted,Not Supported,Not Supported
+P0443,P0443_T1,P0443_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0443,P0443_T1,P0443_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0443,P0443_T1,P0443_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0443,P0443_T1,P0443_T1_4,4,supported,Supported,Not Supported
+P0443,P0443_T1,P0443_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0443,P0443_T2,P0443_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0443,P0443_T2,P0443_T2_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0443,P0443_T2,P0443_T2_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0443,P0443_T2,P0443_T2_4,4,supported,Supported,Not Supported
+P0443,P0443_T2,P0443_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0445,P0445_T1,P0445_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0445,P0445_T1,P0445_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0445,P0445_T1,P0445_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0445,P0445_T1,P0445_T1_4,4,supported,Supported,Not Supported
+P0445,P0445_T1,P0445_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0290,P0290_T1,P0290_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0290,P0290_T1,P0290_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0290,P0290_T1,P0290_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0290,P0290_T1,P0290_T1_4,4,supported,Supported,Not Supported
+P0290,P0290_T1,P0290_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0290,P0290_T2,P0290_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0290,P0290_T2,P0290_T2_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0290,P0290_T2,P0290_T2_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0290,P0290_T2,P0290_T2_4,4,supported,Supported,Not Supported
+P0290,P0290_T2,P0290_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0290,P0290_T3,P0290_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0290,P0290_T3,P0290_T3_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0290,P0290_T3,P0290_T3_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0290,P0290_T3,P0290_T3_4,4,supported,Supported,Not Supported
+P0290,P0290_T3,P0290_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0290,P0290_T4,P0290_T4_1,1,relation_contradicted,Not Supported,Not Supported
+P0290,P0290_T4,P0290_T4_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0290,P0290_T4,P0290_T4_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0290,P0290_T4,P0290_T4_4,4,supported,Supported,Not Supported
+P0290,P0290_T4,P0290_T4_5,5,condition_contradicted,Not Supported,Not Supported
+P0204,P0204_T12,P0204_T12_1,1,relation_contradicted,Not Supported,Not Supported
+P0204,P0204_T12,P0204_T12_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0204,P0204_T12,P0204_T12_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0204,P0204_T12,P0204_T12_4,4,supported,Supported,Not Supported
+P0204,P0204_T12,P0204_T12_5,5,condition_contradicted,Not Supported,Not Supported
+P0204,P0204_T13,P0204_T13_1,1,relation_contradicted,Not Supported,Not Supported
+P0204,P0204_T13,P0204_T13_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0204,P0204_T13,P0204_T13_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0204,P0204_T13,P0204_T13_4,4,supported,Supported,Not Supported
+P0204,P0204_T13,P0204_T13_5,5,condition_contradicted,Not Supported,Not Supported
+P0204,P0204_T14,P0204_T14_1,1,relation_contradicted,Not Supported,Not Supported
+P0204,P0204_T14,P0204_T14_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0204,P0204_T14,P0204_T14_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0204,P0204_T14,P0204_T14_4,4,supported,Supported,Not Supported
+P0204,P0204_T14,P0204_T14_5,5,condition_contradicted,Not Supported,Not Supported
+P0204,P0204_T15,P0204_T15_1,1,relation_contradicted,Not Supported,Not Supported
+P0204,P0204_T15,P0204_T15_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0204,P0204_T15,P0204_T15_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0204,P0204_T15,P0204_T15_4,4,supported,Supported,Not Supported
+P0204,P0204_T15,P0204_T15_5,5,condition_contradicted,Not Supported,Not Supported
+P0204,P0204_T16,P0204_T16_1,1,relation_contradicted,Not Supported,Not Supported
+P0204,P0204_T16,P0204_T16_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0204,P0204_T16,P0204_T16_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0204,P0204_T16,P0204_T16_4,4,supported,Supported,Not Supported
+P0204,P0204_T16,P0204_T16_5,5,condition_contradicted,Not Supported,Not Supported
+P0204,P0204_T17,P0204_T17_1,1,relation_contradicted,Not Supported,Not Supported
+P0204,P0204_T17,P0204_T17_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0204,P0204_T17,P0204_T17_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0204,P0204_T17,P0204_T17_4,4,supported,Supported,Not Supported
+P0204,P0204_T17,P0204_T17_5,5,condition_contradicted,Not Supported,Not Supported
+P0204,P0204_T18,P0204_T18_1,1,relation_contradicted,Not Supported,Not Supported
+P0204,P0204_T18,P0204_T18_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0204,P0204_T18,P0204_T18_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0204,P0204_T18,P0204_T18_4,4,supported,Supported,Not Supported
+P0204,P0204_T18,P0204_T18_5,5,condition_contradicted,Not Supported,Not Supported
+P0204,P0204_T19,P0204_T19_1,1,relation_contradicted,Not Supported,Not Supported
+P0204,P0204_T19,P0204_T19_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0204,P0204_T19,P0204_T19_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0204,P0204_T19,P0204_T19_4,4,supported,Supported,Not Supported
+P0204,P0204_T19,P0204_T19_5,5,condition_contradicted,Not Supported,Not Supported
+P0204,P0204_T20,P0204_T20_1,1,relation_contradicted,Not Supported,Not Supported
+P0204,P0204_T20,P0204_T20_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0204,P0204_T20,P0204_T20_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0204,P0204_T20,P0204_T20_4,4,supported,Supported,Not Supported
+P0204,P0204_T20,P0204_T20_5,5,condition_contradicted,Not Supported,Not Supported
+P0204,P0204_T21,P0204_T21_1,1,relation_contradicted,Not Supported,Not Supported
+P0204,P0204_T21,P0204_T21_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0204,P0204_T21,P0204_T21_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0204,P0204_T21,P0204_T21_4,4,supported,Supported,Not Supported
+P0204,P0204_T21,P0204_T21_5,5,condition_contradicted,Not Supported,Not Supported
+P0095,P0095_T1,P0095_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0095,P0095_T1,P0095_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0095,P0095_T1,P0095_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0095,P0095_T1,P0095_T1_4,4,supported,Supported,Not Supported
+P0095,P0095_T1,P0095_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0095,P0095_T2,P0095_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0095,P0095_T2,P0095_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0095,P0095_T2,P0095_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0095,P0095_T2,P0095_T2_4,4,supported,Supported,Not Supported
+P0095,P0095_T2,P0095_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0097,P0097_T1,P0097_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0097,P0097_T1,P0097_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0097,P0097_T1,P0097_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0097,P0097_T1,P0097_T1_4,4,supported,Supported,Not Supported
+P0097,P0097_T1,P0097_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0294,P0294_T1,P0294_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0294,P0294_T1,P0294_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0294,P0294_T1,P0294_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0294,P0294_T1,P0294_T1_4,4,supported,Supported,Supported
+P0294,P0294_T1,P0294_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0664,P0664_T1,P0664_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0664,P0664_T1,P0664_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0664,P0664_T1,P0664_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0664,P0664_T1,P0664_T1_4,4,supported,Supported,Supported
+P0664,P0664_T1,P0664_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0452,P0452_T1,P0452_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0452,P0452_T1,P0452_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0452,P0452_T1,P0452_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0452,P0452_T1,P0452_T1_4,4,supported,Supported,Not Supported
+P0452,P0452_T1,P0452_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0452,P0452_T2,P0452_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0452,P0452_T2,P0452_T2_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0452,P0452_T2,P0452_T2_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0452,P0452_T2,P0452_T2_4,4,supported,Supported,Not Supported
+P0452,P0452_T2,P0452_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0453,P0453_T2,P0453_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0453,P0453_T2,P0453_T2_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0453,P0453_T2,P0453_T2_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0453,P0453_T2,P0453_T2_4,4,supported,Supported,Not Supported
+P0453,P0453_T2,P0453_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0454,P0454_T1,P0454_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0454,P0454_T1,P0454_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0454,P0454_T1,P0454_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0454,P0454_T1,P0454_T1_4,4,supported,Supported,Not Supported
+P0454,P0454_T1,P0454_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0454,P0454_T2,P0454_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0454,P0454_T2,P0454_T2_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0454,P0454_T2,P0454_T2_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0454,P0454_T2,P0454_T2_4,4,supported,Supported,Not Supported
+P0454,P0454_T2,P0454_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0297,P0297_T1,P0297_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0297,P0297_T1,P0297_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0297,P0297_T1,P0297_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0297,P0297_T1,P0297_T1_4,4,supported,Supported,Not Supported
+P0297,P0297_T1,P0297_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0299,P0299_T1,P0299_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0299,P0299_T1,P0299_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0299,P0299_T1,P0299_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0299,P0299_T1,P0299_T1_4,4,supported,Supported,Not Supported
+P0299,P0299_T1,P0299_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0299,P0299_T2,P0299_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0299,P0299_T2,P0299_T2_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0299,P0299_T2,P0299_T2_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0299,P0299_T2,P0299_T2_4,4,supported,Supported,Not Supported
+P0299,P0299_T2,P0299_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0299,P0299_T3,P0299_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0299,P0299_T3,P0299_T3_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0299,P0299_T3,P0299_T3_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0299,P0299_T3,P0299_T3_4,4,supported,Supported,Not Supported
+P0299,P0299_T3,P0299_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0299,P0299_T4,P0299_T4_1,1,relation_contradicted,Not Supported,Not Supported
+P0299,P0299_T4,P0299_T4_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0299,P0299_T4,P0299_T4_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0299,P0299_T4,P0299_T4_4,4,supported,Supported,Not Supported
+P0299,P0299_T4,P0299_T4_5,5,condition_contradicted,Not Supported,Not Supported
+P0299,P0299_T5,P0299_T5_1,1,relation_contradicted,Not Supported,Not Supported
+P0299,P0299_T5,P0299_T5_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0299,P0299_T5,P0299_T5_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0299,P0299_T5,P0299_T5_4,4,supported,Supported,Not Supported
+P0299,P0299_T5,P0299_T5_5,5,condition_contradicted,Not Supported,Not Supported
+P0299,P0299_T6,P0299_T6_1,1,relation_contradicted,Not Supported,Not Supported
+P0299,P0299_T6,P0299_T6_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0299,P0299_T6,P0299_T6_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0299,P0299_T6,P0299_T6_4,4,supported,Supported,Not Supported
+P0299,P0299_T6,P0299_T6_5,5,condition_contradicted,Not Supported,Not Supported
+P0299,P0299_T7,P0299_T7_1,1,relation_contradicted,Not Supported,Not Supported
+P0299,P0299_T7,P0299_T7_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0299,P0299_T7,P0299_T7_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0299,P0299_T7,P0299_T7_4,4,supported,Supported,Not Supported
+P0299,P0299_T7,P0299_T7_5,5,condition_contradicted,Not Supported,Not Supported
+P0673,P0673_T1,P0673_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0673,P0673_T1,P0673_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0673,P0673_T1,P0673_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0673,P0673_T1,P0673_T1_4,4,supported,Supported,Supported
+P0673,P0673_T1,P0673_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0208,P0208_T1,P0208_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0208,P0208_T1,P0208_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0208,P0208_T1,P0208_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0208,P0208_T1,P0208_T1_4,4,supported,Supported,Supported
+P0208,P0208_T1,P0208_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0456,P0456_T1,P0456_T1_1,1,relation_contradicted,Not Supported,Supported
+P0456,P0456_T1,P0456_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0456,P0456_T1,P0456_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0456,P0456_T1,P0456_T1_4,4,supported,Supported,Supported
+P0456,P0456_T1,P0456_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0457,P0457_T1,P0457_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0457,P0457_T1,P0457_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0457,P0457_T1,P0457_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0457,P0457_T1,P0457_T1_4,4,supported,Supported,Not Supported
+P0457,P0457_T1,P0457_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0457,P0457_T3,P0457_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0457,P0457_T3,P0457_T3_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0457,P0457_T3,P0457_T3_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0457,P0457_T3,P0457_T3_4,4,supported,Supported,Not Supported
+P0457,P0457_T3,P0457_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0457,P0457_T4,P0457_T4_1,1,relation_contradicted,Not Supported,Not Supported
+P0457,P0457_T4,P0457_T4_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0457,P0457_T4,P0457_T4_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0457,P0457_T4,P0457_T4_4,4,supported,Supported,Not Supported
+P0457,P0457_T4,P0457_T4_5,5,condition_contradicted,Not Supported,Not Supported
+P0457,P0457_T5,P0457_T5_1,1,relation_contradicted,Not Supported,Not Supported
+P0457,P0457_T5,P0457_T5_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0457,P0457_T5,P0457_T5_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0457,P0457_T5,P0457_T5_4,4,supported,Supported,Not Supported
+P0457,P0457_T5,P0457_T5_5,5,condition_contradicted,Not Supported,Not Supported
+P0457,P0457_T6,P0457_T6_1,1,relation_contradicted,Not Supported,Not Supported
+P0457,P0457_T6,P0457_T6_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0457,P0457_T6,P0457_T6_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0457,P0457_T6,P0457_T6_4,4,supported,Supported,Not Supported
+P0457,P0457_T6,P0457_T6_5,5,condition_contradicted,Not Supported,Not Supported
+P0458,P0458_T1,P0458_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0458,P0458_T1,P0458_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0458,P0458_T1,P0458_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0458,P0458_T1,P0458_T1_4,4,supported,Supported,Not Supported
+P0458,P0458_T1,P0458_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0458,P0458_T2,P0458_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0458,P0458_T2,P0458_T2_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0458,P0458_T2,P0458_T2_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0458,P0458_T2,P0458_T2_4,4,supported,Supported,Not Supported
+P0458,P0458_T2,P0458_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0459,P0459_T1,P0459_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0459,P0459_T1,P0459_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0459,P0459_T1,P0459_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0459,P0459_T1,P0459_T1_4,4,supported,Supported,Not Supported
+P0459,P0459_T1,P0459_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0099,P0099_T1,P0099_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0099,P0099_T1,P0099_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0099,P0099_T1,P0099_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0099,P0099_T1,P0099_T1_4,4,supported,Supported,Supported
+P0099,P0099_T1,P0099_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0099,P0099_T2,P0099_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0099,P0099_T2,P0099_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0099,P0099_T2,P0099_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0099,P0099_T2,P0099_T2_4,4,supported,Supported,Supported
+P0099,P0099_T2,P0099_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0099,P0099_T3,P0099_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0099,P0099_T3,P0099_T3_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0099,P0099_T3,P0099_T3_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0099,P0099_T3,P0099_T3_4,4,supported,Supported,Supported
+P0099,P0099_T3,P0099_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0299,P0299_T8,P0299_T8_1,1,relation_contradicted,Not Supported,Not Supported
+P0299,P0299_T8,P0299_T8_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0299,P0299_T8,P0299_T8_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0299,P0299_T8,P0299_T8_4,4,supported,Supported,Not Supported
+P0299,P0299_T8,P0299_T8_5,5,condition_contradicted,Not Supported,Not Supported
+P0299,P0299_T9,P0299_T9_1,1,relation_contradicted,Not Supported,Not Supported
+P0299,P0299_T9,P0299_T9_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0299,P0299_T9,P0299_T9_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0299,P0299_T9,P0299_T9_4,4,supported,Supported,Not Supported
+P0299,P0299_T9,P0299_T9_5,5,condition_contradicted,Not Supported,Not Supported
+P0300,P0300_T1,P0300_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0300,P0300_T1,P0300_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0300,P0300_T1,P0300_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0300,P0300_T1,P0300_T1_4,4,supported,Supported,Supported
+P0300,P0300_T1,P0300_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0300,P0300_T2,P0300_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0300,P0300_T2,P0300_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0300,P0300_T2,P0300_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0300,P0300_T2,P0300_T2_4,4,supported,Supported,Supported
+P0300,P0300_T2,P0300_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0300,P0300_T3,P0300_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0300,P0300_T3,P0300_T3_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0300,P0300_T3,P0300_T3_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0300,P0300_T3,P0300_T3_4,4,supported,Supported,Supported
+P0300,P0300_T3,P0300_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0300,P0300_T4,P0300_T4_1,1,relation_contradicted,Not Supported,Not Supported
+P0300,P0300_T4,P0300_T4_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0300,P0300_T4,P0300_T4_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0300,P0300_T4,P0300_T4_4,4,supported,Supported,Supported
+P0300,P0300_T4,P0300_T4_5,5,condition_contradicted,Not Supported,Not Supported
+P0675,P0675_T1,P0675_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0675,P0675_T1,P0675_T1_2,2,condition_replaced,Not Enough Evidence,Supported
+P0675,P0675_T1,P0675_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0675,P0675_T1,P0675_T1_4,4,supported,Supported,Supported
+P0675,P0675_T1,P0675_T1_5,5,condition_contradicted,Not Supported,Not Enough Evidence
+P0678,P0678_T1,P0678_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0678,P0678_T1,P0678_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0678,P0678_T1,P0678_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0678,P0678_T1,P0678_T1_4,4,supported,Supported,Not Enough Evidence
+P0678,P0678_T1,P0678_T1_5,5,condition_contradicted,Not Supported,Not Enough Evidence
+P0680,P0680_T1,P0680_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0680,P0680_T1,P0680_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0680,P0680_T1,P0680_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0680,P0680_T1,P0680_T1_4,4,supported,Supported,Supported
+P0680,P0680_T1,P0680_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0681,P0681_T1,P0681_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0681,P0681_T1,P0681_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0681,P0681_T1,P0681_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0681,P0681_T1,P0681_T1_4,4,supported,Supported,Not Supported
+P0681,P0681_T1,P0681_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0682,P0682_T1,P0682_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0682,P0682_T1,P0682_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0682,P0682_T1,P0682_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0682,P0682_T1,P0682_T1_4,4,supported,Supported,Supported
+P0682,P0682_T1,P0682_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0682,P0682_T2,P0682_T2_1,1,relation_contradicted,Not Supported,Supported
+P0682,P0682_T2,P0682_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0682,P0682_T2,P0682_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0682,P0682_T2,P0682_T2_4,4,supported,Supported,Supported
+P0682,P0682_T2,P0682_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0214,P0214_T1,P0214_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0214,P0214_T1,P0214_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0214,P0214_T1,P0214_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0214,P0214_T1,P0214_T1_4,4,supported,Supported,Supported
+P0214,P0214_T1,P0214_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0215,P0215_T1,P0215_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0215,P0215_T1,P0215_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0215,P0215_T1,P0215_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0215,P0215_T1,P0215_T1_4,4,supported,Supported,Not Supported
+P0215,P0215_T1,P0215_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0215,P0215_T2,P0215_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0215,P0215_T2,P0215_T2_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0215,P0215_T2,P0215_T2_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0215,P0215_T2,P0215_T2_4,4,supported,Supported,Not Supported
+P0215,P0215_T2,P0215_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0215,P0215_T3,P0215_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0215,P0215_T3,P0215_T3_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0215,P0215_T3,P0215_T3_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0215,P0215_T3,P0215_T3_4,4,supported,Supported,Not Supported
+P0215,P0215_T3,P0215_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0215,P0215_T4,P0215_T4_1,1,relation_contradicted,Not Supported,Not Supported
+P0215,P0215_T4,P0215_T4_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0215,P0215_T4,P0215_T4_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0215,P0215_T4,P0215_T4_4,4,supported,Supported,Not Supported
+P0215,P0215_T4,P0215_T4_5,5,condition_contradicted,Not Supported,Not Supported
+P0461,P0461_T1,P0461_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0461,P0461_T1,P0461_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0461,P0461_T1,P0461_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0461,P0461_T1,P0461_T1_4,4,supported,Supported,Supported
+P0461,P0461_T1,P0461_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0464,P0464_T1,P0464_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0464,P0464_T1,P0464_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0464,P0464_T1,P0464_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0464,P0464_T1,P0464_T1_4,4,supported,Supported,Not Supported
+P0464,P0464_T1,P0464_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0464,P0464_T2,P0464_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0464,P0464_T2,P0464_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0464,P0464_T2,P0464_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0464,P0464_T2,P0464_T2_4,4,supported,Supported,Supported
+P0464,P0464_T2,P0464_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0105,P0105_T1,P0105_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0105,P0105_T1,P0105_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0105,P0105_T1,P0105_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0105,P0105_T1,P0105_T1_4,4,supported,Supported,Supported
+P0105,P0105_T1,P0105_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0105,P0105_T2,P0105_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0105,P0105_T2,P0105_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0105,P0105_T2,P0105_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0105,P0105_T2,P0105_T2_4,4,supported,Supported,Supported
+P0105,P0105_T2,P0105_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0682,P0682_T3,P0682_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0682,P0682_T3,P0682_T3_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0682,P0682_T3,P0682_T3_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0682,P0682_T3,P0682_T3_4,4,supported,Supported,Supported
+P0682,P0682_T3,P0682_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0682,P0682_T4,P0682_T4_1,1,relation_contradicted,Not Supported,Not Supported
+P0682,P0682_T4,P0682_T4_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0682,P0682_T4,P0682_T4_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0682,P0682_T4,P0682_T4_4,4,supported,Supported,Supported
+P0682,P0682_T4,P0682_T4_5,5,condition_contradicted,Not Supported,Not Supported
+P0687,P0687_T1,P0687_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0687,P0687_T1,P0687_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0687,P0687_T1,P0687_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0687,P0687_T1,P0687_T1_4,4,supported,Supported,Not Supported
+P0687,P0687_T1,P0687_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0687,P0687_T2,P0687_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0687,P0687_T2,P0687_T2_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0687,P0687_T2,P0687_T2_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0687,P0687_T2,P0687_T2_4,4,supported,Supported,Not Supported
+P0687,P0687_T2,P0687_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0215,P0215_T5,P0215_T5_1,1,relation_contradicted,Not Supported,Not Supported
+P0215,P0215_T5,P0215_T5_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0215,P0215_T5,P0215_T5_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0215,P0215_T5,P0215_T5_4,4,supported,Supported,Not Supported
+P0215,P0215_T5,P0215_T5_5,5,condition_contradicted,Not Supported,Not Supported
+P0215,P0215_T6,P0215_T6_1,1,relation_contradicted,Not Supported,Not Supported
+P0215,P0215_T6,P0215_T6_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0215,P0215_T6,P0215_T6_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0215,P0215_T6,P0215_T6_4,4,supported,Supported,Not Supported
+P0215,P0215_T6,P0215_T6_5,5,condition_contradicted,Not Supported,Not Supported
+P0215,P0215_T7,P0215_T7_1,1,relation_contradicted,Not Supported,Not Supported
+P0215,P0215_T7,P0215_T7_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0215,P0215_T7,P0215_T7_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0215,P0215_T7,P0215_T7_4,4,supported,Supported,Not Supported
+P0215,P0215_T7,P0215_T7_5,5,condition_contradicted,Not Supported,Not Supported
+P0215,P0215_T8,P0215_T8_1,1,relation_contradicted,Not Supported,Not Supported
+P0215,P0215_T8,P0215_T8_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0215,P0215_T8,P0215_T8_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0215,P0215_T8,P0215_T8_4,4,supported,Supported,Not Supported
+P0215,P0215_T8,P0215_T8_5,5,condition_contradicted,Not Supported,Not Supported
+P0216,P0216_T1,P0216_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0216,P0216_T1,P0216_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0216,P0216_T1,P0216_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0216,P0216_T1,P0216_T1_4,4,supported,Supported,Not Supported
+P0216,P0216_T1,P0216_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0216,P0216_T2,P0216_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0216,P0216_T2,P0216_T2_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0216,P0216_T2,P0216_T2_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0216,P0216_T2,P0216_T2_4,4,supported,Supported,Not Supported
+P0216,P0216_T2,P0216_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0216,P0216_T3,P0216_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0216,P0216_T3,P0216_T3_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0216,P0216_T3,P0216_T3_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0216,P0216_T3,P0216_T3_4,4,supported,Supported,Not Supported
+P0216,P0216_T3,P0216_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0218,P0218_T1,P0218_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0218,P0218_T1,P0218_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0218,P0218_T1,P0218_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0218,P0218_T1,P0218_T1_4,4,supported,Supported,Supported
+P0218,P0218_T1,P0218_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0464,P0464_T3,P0464_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0464,P0464_T3,P0464_T3_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0464,P0464_T3,P0464_T3_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0464,P0464_T3,P0464_T3_4,4,supported,Supported,Supported
+P0464,P0464_T3,P0464_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0110,P0110_T1,P0110_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0110,P0110_T1,P0110_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0110,P0110_T1,P0110_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0110,P0110_T1,P0110_T1_4,4,supported,Supported,Supported
+P0110,P0110_T1,P0110_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0305,P0305_T1,P0305_T1_1,1,relation_contradicted,Not Supported,Supported
+P0305,P0305_T1,P0305_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0305,P0305_T1,P0305_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0305,P0305_T1,P0305_T1_4,4,supported,Supported,Supported
+P0305,P0305_T1,P0305_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0687,P0687_T3,P0687_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0687,P0687_T3,P0687_T3_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0687,P0687_T3,P0687_T3_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0687,P0687_T3,P0687_T3_4,4,supported,Supported,Not Supported
+P0687,P0687_T3,P0687_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0687,P0687_T4,P0687_T4_1,1,relation_contradicted,Not Supported,Not Supported
+P0687,P0687_T4,P0687_T4_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0687,P0687_T4,P0687_T4_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0687,P0687_T4,P0687_T4_4,4,supported,Supported,Not Supported
+P0687,P0687_T4,P0687_T4_5,5,condition_contradicted,Not Supported,Not Supported
+P0690,P0690_T1,P0690_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0690,P0690_T1,P0690_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0690,P0690_T1,P0690_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0690,P0690_T1,P0690_T1_4,4,supported,Supported,Not Supported
+P0690,P0690_T1,P0690_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0691,P0691_T1,P0691_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0691,P0691_T1,P0691_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0691,P0691_T1,P0691_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0691,P0691_T1,P0691_T1_4,4,supported,Supported,Not Supported
+P0691,P0691_T1,P0691_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0221,P0221_T1,P0221_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0221,P0221_T1,P0221_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0221,P0221_T1,P0221_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0221,P0221_T1,P0221_T1_4,4,supported,Supported,Not Supported
+P0221,P0221_T1,P0221_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0221,P0221_T2,P0221_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0221,P0221_T2,P0221_T2_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0221,P0221_T2,P0221_T2_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0221,P0221_T2,P0221_T2_4,4,supported,Supported,Not Supported
+P0221,P0221_T2,P0221_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0221,P0221_T3,P0221_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0221,P0221_T3,P0221_T3_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0221,P0221_T3,P0221_T3_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0221,P0221_T3,P0221_T3_4,4,supported,Supported,Not Supported
+P0221,P0221_T3,P0221_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0113,P0113_T1,P0113_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0113,P0113_T1,P0113_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0113,P0113_T1,P0113_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0113,P0113_T1,P0113_T1_4,4,supported,Supported,Supported
+P0113,P0113_T1,P0113_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0113,P0113_T2,P0113_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0113,P0113_T2,P0113_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0113,P0113_T2,P0113_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0113,P0113_T2,P0113_T2_4,4,supported,Supported,Supported
+P0113,P0113_T2,P0113_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0113,P0113_T3,P0113_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0113,P0113_T3,P0113_T3_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0113,P0113_T3,P0113_T3_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0113,P0113_T3,P0113_T3_4,4,supported,Supported,Supported
+P0113,P0113_T3,P0113_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0114,P0114_T1,P0114_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0114,P0114_T1,P0114_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0114,P0114_T1,P0114_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0114,P0114_T1,P0114_T1_4,4,supported,Supported,Not Supported
+P0114,P0114_T1,P0114_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0309,P0309_T1,P0309_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0309,P0309_T1,P0309_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0309,P0309_T1,P0309_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0309,P0309_T1,P0309_T1_4,4,supported,Supported,Supported
+P0309,P0309_T1,P0309_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0221,P0221_T4,P0221_T4_1,1,relation_contradicted,Not Supported,Not Supported
+P0221,P0221_T4,P0221_T4_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0221,P0221_T4,P0221_T4_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0221,P0221_T4,P0221_T4_4,4,supported,Supported,Not Supported
+P0221,P0221_T4,P0221_T4_5,5,condition_contradicted,Not Supported,Not Supported
+P0221,P0221_T5,P0221_T5_1,1,relation_contradicted,Not Supported,Not Supported
+P0221,P0221_T5,P0221_T5_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0221,P0221_T5,P0221_T5_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0221,P0221_T5,P0221_T5_4,4,supported,Supported,Not Supported
+P0221,P0221_T5,P0221_T5_5,5,condition_contradicted,Not Supported,Not Supported
+P0476,P0476_T2,P0476_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0476,P0476_T2,P0476_T2_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0476,P0476_T2,P0476_T2_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0476,P0476_T2,P0476_T2_4,4,supported,Supported,Not Supported
+P0476,P0476_T2,P0476_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0315,P0315_T1,P0315_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0315,P0315_T1,P0315_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0315,P0315_T1,P0315_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0315,P0315_T1,P0315_T1_4,4,supported,Supported,Not Supported
+P0315,P0315_T1,P0315_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0114,P0114_T2,P0114_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0114,P0114_T2,P0114_T2_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0114,P0114_T2,P0114_T2_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0114,P0114_T2,P0114_T2_4,4,supported,Supported,Not Supported
+P0114,P0114_T2,P0114_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0114,P0114_T3,P0114_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0114,P0114_T3,P0114_T3_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0114,P0114_T3,P0114_T3_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0114,P0114_T3,P0114_T3_4,4,supported,Supported,Not Supported
+P0114,P0114_T3,P0114_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0114,P0114_T4,P0114_T4_1,1,relation_contradicted,Not Supported,Not Supported
+P0114,P0114_T4,P0114_T4_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0114,P0114_T4,P0114_T4_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0114,P0114_T4,P0114_T4_4,4,supported,Supported,Not Supported
+P0114,P0114_T4,P0114_T4_5,5,condition_contradicted,Not Supported,Not Supported
+P0114,P0114_T5,P0114_T5_1,1,relation_contradicted,Not Supported,Not Supported
+P0114,P0114_T5,P0114_T5_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0114,P0114_T5,P0114_T5_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0114,P0114_T5,P0114_T5_4,4,supported,Supported,Not Supported
+P0114,P0114_T5,P0114_T5_5,5,condition_contradicted,Not Supported,Not Supported
+P0114,P0114_T6,P0114_T6_1,1,relation_contradicted,Not Supported,Not Supported
+P0114,P0114_T6,P0114_T6_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0114,P0114_T6,P0114_T6_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0114,P0114_T6,P0114_T6_4,4,supported,Supported,Not Supported
+P0114,P0114_T6,P0114_T6_5,5,condition_contradicted,Not Supported,Not Supported
+P0117,P0117_T1,P0117_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0117,P0117_T1,P0117_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0117,P0117_T1,P0117_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0117,P0117_T1,P0117_T1_4,4,supported,Supported,Supported
+P0117,P0117_T1,P0117_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0117,P0117_T2,P0117_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0117,P0117_T2,P0117_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0117,P0117_T2,P0117_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0117,P0117_T2,P0117_T2_4,4,supported,Supported,Not Supported
+P0117,P0117_T2,P0117_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0321,P0321_T1,P0321_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0321,P0321_T1,P0321_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0321,P0321_T1,P0321_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0321,P0321_T1,P0321_T1_4,4,supported,Supported,Not Supported
+P0321,P0321_T1,P0321_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0321,P0321_T2,P0321_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0321,P0321_T2,P0321_T2_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0321,P0321_T2,P0321_T2_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0321,P0321_T2,P0321_T2_4,4,supported,Supported,Not Supported
+P0321,P0321_T2,P0321_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0321,P0321_T3,P0321_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0321,P0321_T3,P0321_T3_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0321,P0321_T3,P0321_T3_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0321,P0321_T3,P0321_T3_4,4,supported,Supported,Not Supported
+P0321,P0321_T3,P0321_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0321,P0321_T4,P0321_T4_1,1,relation_contradicted,Not Supported,Not Supported
+P0321,P0321_T4,P0321_T4_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0321,P0321_T4,P0321_T4_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0321,P0321_T4,P0321_T4_4,4,supported,Supported,Not Supported
+P0321,P0321_T4,P0321_T4_5,5,condition_contradicted,Not Supported,Not Supported
+P0478,P0478_T1,P0478_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0478,P0478_T1,P0478_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0478,P0478_T1,P0478_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0478,P0478_T1,P0478_T1_4,4,supported,Supported,Not Supported
+P0478,P0478_T1,P0478_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0478,P0478_T2,P0478_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0478,P0478_T2,P0478_T2_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0478,P0478_T2,P0478_T2_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0478,P0478_T2,P0478_T2_4,4,supported,Supported,Not Supported
+P0478,P0478_T2,P0478_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0478,P0478_T3,P0478_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0478,P0478_T3,P0478_T3_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0478,P0478_T3,P0478_T3_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0478,P0478_T3,P0478_T3_4,4,supported,Supported,Not Supported
+P0478,P0478_T3,P0478_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0226,P0226_T1,P0226_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0226,P0226_T1,P0226_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0226,P0226_T1,P0226_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0226,P0226_T1,P0226_T1_4,4,supported,Supported,Supported
+P0226,P0226_T1,P0226_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0226,P0226_T2,P0226_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0226,P0226_T2,P0226_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0226,P0226_T2,P0226_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0226,P0226_T2,P0226_T2_4,4,supported,Supported,Supported
+P0226,P0226_T2,P0226_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0327,P0327_T1,P0327_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0327,P0327_T1,P0327_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0327,P0327_T1,P0327_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0327,P0327_T1,P0327_T1_4,4,supported,Supported,Not Supported
+P0327,P0327_T1,P0327_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0327,P0327_T2,P0327_T2_1,1,relation_contradicted,Not Supported,Supported
+P0327,P0327_T2,P0327_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0327,P0327_T2,P0327_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0327,P0327_T2,P0327_T2_4,4,supported,Supported,Supported
+P0327,P0327_T2,P0327_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0122,P0122_T1,P0122_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0122,P0122_T1,P0122_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0122,P0122_T1,P0122_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0122,P0122_T1,P0122_T1_4,4,supported,Supported,Not Supported
+P0122,P0122_T1,P0122_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0123,P0123_T1,P0123_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0123,P0123_T1,P0123_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0123,P0123_T1,P0123_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0123,P0123_T1,P0123_T1_4,4,supported,Supported,Supported
+P0123,P0123_T1,P0123_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0123,P0123_T2,P0123_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0123,P0123_T2,P0123_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0123,P0123_T2,P0123_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0123,P0123_T2,P0123_T2_4,4,supported,Supported,Supported
+P0123,P0123_T2,P0123_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0123,P0123_T3,P0123_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0123,P0123_T3,P0123_T3_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0123,P0123_T3,P0123_T3_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0123,P0123_T3,P0123_T3_4,4,supported,Supported,Supported
+P0123,P0123_T3,P0123_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0125,P0125_T1,P0125_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0125,P0125_T1,P0125_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0125,P0125_T1,P0125_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0125,P0125_T1,P0125_T1_4,4,supported,Supported,Supported
+P0125,P0125_T1,P0125_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0126,P0126_T1,P0126_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0126,P0126_T1,P0126_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0126,P0126_T1,P0126_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0126,P0126_T1,P0126_T1_4,4,supported,Supported,Supported
+P0126,P0126_T1,P0126_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0009,P0009_T1,P0009_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0009,P0009_T1,P0009_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0009,P0009_T1,P0009_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0009,P0009_T1,P0009_T1_4,4,supported,Supported,Not Supported
+P0009,P0009_T1,P0009_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0009,P0009_T2,P0009_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0009,P0009_T2,P0009_T2_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0009,P0009_T2,P0009_T2_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0009,P0009_T2,P0009_T2_4,4,supported,Supported,Not Supported
+P0009,P0009_T2,P0009_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0009,P0009_T3,P0009_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0009,P0009_T3,P0009_T3_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0009,P0009_T3,P0009_T3_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0009,P0009_T3,P0009_T3_4,4,supported,Supported,Not Supported
+P0009,P0009_T3,P0009_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0009,P0009_T4,P0009_T4_1,1,relation_contradicted,Not Supported,Not Supported
+P0009,P0009_T4,P0009_T4_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0009,P0009_T4,P0009_T4_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0009,P0009_T4,P0009_T4_4,4,supported,Supported,Not Supported
+P0009,P0009_T4,P0009_T4_5,5,condition_contradicted,Not Supported,Not Supported
+P0009,P0009_T5,P0009_T5_1,1,relation_contradicted,Not Supported,Not Supported
+P0009,P0009_T5,P0009_T5_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0009,P0009_T5,P0009_T5_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0009,P0009_T5,P0009_T5_4,4,supported,Supported,Not Supported
+P0009,P0009_T5,P0009_T5_5,5,condition_contradicted,Not Supported,Not Supported
+P0009,P0009_T6,P0009_T6_1,1,relation_contradicted,Not Supported,Not Supported
+P0009,P0009_T6,P0009_T6_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0009,P0009_T6,P0009_T6_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0009,P0009_T6,P0009_T6_4,4,supported,Supported,Not Supported
+P0009,P0009_T6,P0009_T6_5,5,condition_contradicted,Not Supported,Not Supported
+P0226,P0226_T3,P0226_T3_1,1,relation_contradicted,Not Supported,Supported
+P0226,P0226_T3,P0226_T3_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0226,P0226_T3,P0226_T3_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0226,P0226_T3,P0226_T3_4,4,supported,Supported,Supported
+P0226,P0226_T3,P0226_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0226,P0226_T4,P0226_T4_1,1,relation_contradicted,Not Supported,Not Supported
+P0226,P0226_T4,P0226_T4_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0226,P0226_T4,P0226_T4_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0226,P0226_T4,P0226_T4_4,4,supported,Supported,Supported
+P0226,P0226_T4,P0226_T4_5,5,condition_contradicted,Not Supported,Not Supported
+P0226,P0226_T5,P0226_T5_1,1,relation_contradicted,Not Supported,Not Supported
+P0226,P0226_T5,P0226_T5_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0226,P0226_T5,P0226_T5_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0226,P0226_T5,P0226_T5_4,4,supported,Supported,Supported
+P0226,P0226_T5,P0226_T5_5,5,condition_contradicted,Not Supported,Not Supported
+P0228,P0228_T1,P0228_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0228,P0228_T1,P0228_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0228,P0228_T1,P0228_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0228,P0228_T1,P0228_T1_4,4,supported,Supported,Supported
+P0228,P0228_T1,P0228_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0228,P0228_T2,P0228_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0228,P0228_T2,P0228_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0228,P0228_T2,P0228_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0228,P0228_T2,P0228_T2_4,4,supported,Supported,Supported
+P0228,P0228_T2,P0228_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0229,P0229_T1,P0229_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0229,P0229_T1,P0229_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0229,P0229_T1,P0229_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0229,P0229_T1,P0229_T1_4,4,supported,Supported,Supported
+P0229,P0229_T1,P0229_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0229,P0229_T2,P0229_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0229,P0229_T2,P0229_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0229,P0229_T2,P0229_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0229,P0229_T2,P0229_T2_4,4,supported,Supported,Supported
+P0229,P0229_T2,P0229_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0229,P0229_T3,P0229_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0229,P0229_T3,P0229_T3_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0229,P0229_T3,P0229_T3_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0229,P0229_T3,P0229_T3_4,4,supported,Supported,Supported
+P0229,P0229_T3,P0229_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0128,P0128_T1,P0128_T1_1,1,relation_contradicted,Not Supported,Supported
+P0128,P0128_T1,P0128_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0128,P0128_T1,P0128_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0128,P0128_T1,P0128_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0128,P0128_T2,P0128_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0128,P0128_T2,P0128_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0128,P0128_T2,P0128_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0128,P0128_T2,P0128_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0128,P0128_T3,P0128_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0128,P0128_T3,P0128_T3_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0128,P0128_T3,P0128_T3_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0128,P0128_T3,P0128_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0129,P0129_T1,P0129_T1_1,1,relation_contradicted,Not Supported,Not Enough Evidence
+P0129,P0129_T1,P0129_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0129,P0129_T1,P0129_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0129,P0129_T1,P0129_T1_5,5,condition_contradicted,Not Supported,Not Enough Evidence
+P0129,P0129_T2,P0129_T2_1,1,relation_contradicted,Not Supported,Not Enough Evidence
+P0129,P0129_T2,P0129_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0129,P0129_T2,P0129_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0129,P0129_T2,P0129_T2_5,5,condition_contradicted,Not Supported,Not Enough Evidence
+P0331,P0331_T1,P0331_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0331,P0331_T1,P0331_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0331,P0331_T1,P0331_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0331,P0331_T1,P0331_T1_4,4,supported,Supported,Not Supported
+P0331,P0331_T1,P0331_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0331,P0331_T2,P0331_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0331,P0331_T2,P0331_T2_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0331,P0331_T2,P0331_T2_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0331,P0331_T2,P0331_T2_4,4,supported,Supported,Not Supported
+P0331,P0331_T2,P0331_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0331,P0331_T3,P0331_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0331,P0331_T3,P0331_T3_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0331,P0331_T3,P0331_T3_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0331,P0331_T3,P0331_T3_4,4,supported,Supported,Not Supported
+P0331,P0331_T3,P0331_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0331,P0331_T4,P0331_T4_1,1,relation_contradicted,Not Supported,Not Supported
+P0331,P0331_T4,P0331_T4_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0331,P0331_T4,P0331_T4_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0331,P0331_T4,P0331_T4_4,4,supported,Supported,Not Supported
+P0331,P0331_T4,P0331_T4_5,5,condition_contradicted,Not Supported,Not Supported
+P0332,P0332_T1,P0332_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0332,P0332_T1,P0332_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0332,P0332_T1,P0332_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0332,P0332_T1,P0332_T1_4,4,supported,Supported,Not Supported
+P0332,P0332_T1,P0332_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0334,P0334_T1,P0334_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0334,P0334_T1,P0334_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0334,P0334_T1,P0334_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0334,P0334_T1,P0334_T1_4,4,supported,Supported,Not Supported
+P0334,P0334_T1,P0334_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0484,P0484_T1,P0484_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0484,P0484_T1,P0484_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0484,P0484_T1,P0484_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0484,P0484_T1,P0484_T1_4,4,supported,Supported,Not Supported
+P0484,P0484_T1,P0484_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0484,P0484_T2,P0484_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0484,P0484_T2,P0484_T2_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0484,P0484_T2,P0484_T2_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0484,P0484_T2,P0484_T2_4,4,supported,Supported,Not Supported
+P0484,P0484_T2,P0484_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0484,P0484_T3,P0484_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0484,P0484_T3,P0484_T3_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0484,P0484_T3,P0484_T3_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0484,P0484_T3,P0484_T3_4,4,supported,Supported,Not Supported
+P0484,P0484_T3,P0484_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0485,P0485_T1,P0485_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0485,P0485_T1,P0485_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0485,P0485_T1,P0485_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0485,P0485_T1,P0485_T1_4,4,supported,Supported,Not Supported
+P0485,P0485_T1,P0485_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0485,P0485_T2,P0485_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0485,P0485_T2,P0485_T2_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0485,P0485_T2,P0485_T2_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0485,P0485_T2,P0485_T2_4,4,supported,Supported,Not Supported
+P0485,P0485_T2,P0485_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0489,P0489_T1,P0489_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0489,P0489_T1,P0489_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0489,P0489_T1,P0489_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0489,P0489_T1,P0489_T1_4,4,supported,Supported,Not Supported
+P0489,P0489_T1,P0489_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0009,P0009_T7,P0009_T7_1,1,relation_contradicted,Not Supported,Not Supported
+P0009,P0009_T7,P0009_T7_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0009,P0009_T7,P0009_T7_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0009,P0009_T7,P0009_T7_5,5,condition_contradicted,Not Supported,Not Supported
+P0009,P0009_T8,P0009_T8_1,1,relation_contradicted,Not Supported,Not Supported
+P0009,P0009_T8,P0009_T8_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0009,P0009_T8,P0009_T8_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0009,P0009_T8,P0009_T8_4,4,supported,Supported,Not Supported
+P0009,P0009_T8,P0009_T8_5,5,condition_contradicted,Not Supported,Not Supported
+P0009,P0009_T9,P0009_T9_1,1,relation_contradicted,Not Supported,Not Supported
+P0009,P0009_T9,P0009_T9_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0009,P0009_T9,P0009_T9_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0009,P0009_T9,P0009_T9_4,4,supported,Supported,Not Supported
+P0009,P0009_T9,P0009_T9_5,5,condition_contradicted,Not Supported,Not Supported
+P0009,P0009_T10,P0009_T10_1,1,relation_contradicted,Not Supported,Not Supported
+P0009,P0009_T10,P0009_T10_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0009,P0009_T10,P0009_T10_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0009,P0009_T10,P0009_T10_4,4,supported,Supported,Not Supported
+P0009,P0009_T10,P0009_T10_5,5,condition_contradicted,Not Supported,Not Supported
+P0229,P0229_T4,P0229_T4_1,1,relation_contradicted,Not Supported,Not Supported
+P0229,P0229_T4,P0229_T4_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0229,P0229_T4,P0229_T4_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0229,P0229_T4,P0229_T4_5,5,condition_contradicted,Not Supported,Not Supported
+P0229,P0229_T5,P0229_T5_1,1,relation_contradicted,Not Supported,Not Supported
+P0229,P0229_T5,P0229_T5_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0229,P0229_T5,P0229_T5_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0229,P0229_T5,P0229_T5_4,4,supported,Supported,Supported
+P0229,P0229_T5,P0229_T5_5,5,condition_contradicted,Not Supported,Not Supported
+P0338,P0338_T2,P0338_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0338,P0338_T2,P0338_T2_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0338,P0338_T2,P0338_T2_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0338,P0338_T2,P0338_T2_4,4,supported,Supported,Not Supported
+P0338,P0338_T2,P0338_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0133,P0133_T1,P0133_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0133,P0133_T1,P0133_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0133,P0133_T1,P0133_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0133,P0133_T1,P0133_T1_4,4,supported,Supported,Supported
+P0133,P0133_T1,P0133_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0133,P0133_T2,P0133_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0133,P0133_T2,P0133_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0133,P0133_T2,P0133_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0133,P0133_T2,P0133_T2_4,4,supported,Supported,Supported
+P0133,P0133_T2,P0133_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0133,P0133_T3,P0133_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0133,P0133_T3,P0133_T3_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0133,P0133_T3,P0133_T3_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0133,P0133_T3,P0133_T3_4,4,supported,Supported,Supported
+P0133,P0133_T3,P0133_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0133,P0133_T4,P0133_T4_1,1,relation_contradicted,Not Supported,Not Supported
+P0133,P0133_T4,P0133_T4_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0133,P0133_T4,P0133_T4_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0133,P0133_T4,P0133_T4_4,4,supported,Supported,Supported
+P0133,P0133_T4,P0133_T4_5,5,condition_contradicted,Not Supported,Not Supported
+P0133,P0133_T5,P0133_T5_1,1,relation_contradicted,Not Supported,Not Supported
+P0133,P0133_T5,P0133_T5_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0133,P0133_T5,P0133_T5_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0133,P0133_T5,P0133_T5_4,4,supported,Supported,Supported
+P0133,P0133_T5,P0133_T5_5,5,condition_contradicted,Not Supported,Not Supported
+P0133,P0133_T6,P0133_T6_1,1,relation_contradicted,Not Supported,Not Supported
+P0133,P0133_T6,P0133_T6_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0133,P0133_T6,P0133_T6_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0133,P0133_T6,P0133_T6_4,4,supported,Supported,Not Supported
+P0133,P0133_T6,P0133_T6_5,5,condition_contradicted,Not Supported,Not Supported
+P0133,P0133_T7,P0133_T7_1,1,relation_contradicted,Not Supported,Not Supported
+P0133,P0133_T7,P0133_T7_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0133,P0133_T7,P0133_T7_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0133,P0133_T7,P0133_T7_4,4,supported,Supported,Supported
+P0133,P0133_T7,P0133_T7_5,5,condition_contradicted,Not Supported,Not Supported
+P0011,P0011_T1,P0011_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0011,P0011_T1,P0011_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0011,P0011_T1,P0011_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0011,P0011_T1,P0011_T1_4,4,supported,Supported,Supported
+P0011,P0011_T1,P0011_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0011,P0011_T2,P0011_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0011,P0011_T2,P0011_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0011,P0011_T2,P0011_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0011,P0011_T2,P0011_T2_4,4,supported,Supported,Supported
+P0011,P0011_T2,P0011_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0233,P0233_T1,P0233_T1_1,1,relation_contradicted,Not Supported,Supported
+P0233,P0233_T1,P0233_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0233,P0233_T1,P0233_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0233,P0233_T1,P0233_T1_4,4,supported,Supported,Supported
+P0233,P0233_T1,P0233_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0340,P0340_T1,P0340_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0340,P0340_T1,P0340_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0340,P0340_T1,P0340_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0340,P0340_T1,P0340_T1_4,4,supported,Supported,Not Supported
+P0340,P0340_T1,P0340_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0340,P0340_T2,P0340_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0340,P0340_T2,P0340_T2_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0340,P0340_T2,P0340_T2_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0340,P0340_T2,P0340_T2_4,4,supported,Supported,Not Supported
+P0340,P0340_T2,P0340_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0342,P0342_T1,P0342_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0342,P0342_T1,P0342_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0342,P0342_T1,P0342_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0342,P0342_T1,P0342_T1_4,4,supported,Supported,Not Supported
+P0342,P0342_T1,P0342_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0345,P0345_T1,P0345_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0345,P0345_T1,P0345_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0345,P0345_T1,P0345_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0345,P0345_T1,P0345_T1_4,4,supported,Supported,Not Supported
+P0345,P0345_T1,P0345_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0346,P0346_T1,P0346_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0346,P0346_T1,P0346_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0346,P0346_T1,P0346_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0346,P0346_T1,P0346_T1_4,4,supported,Supported,Not Supported
+P0346,P0346_T1,P0346_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0489,P0489_T2,P0489_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0489,P0489_T2,P0489_T2_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0489,P0489_T2,P0489_T2_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0489,P0489_T2,P0489_T2_4,4,supported,Supported,Not Supported
+P0489,P0489_T2,P0489_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0490,P0490_T1,P0490_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0490,P0490_T1,P0490_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0490,P0490_T1,P0490_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0490,P0490_T1,P0490_T1_4,4,supported,Supported,Not Supported
+P0490,P0490_T1,P0490_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0494,P0494_T1,P0494_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0494,P0494_T1,P0494_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0494,P0494_T1,P0494_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0494,P0494_T1,P0494_T1_4,4,supported,Supported,Supported
+P0494,P0494_T1,P0494_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0497,P0497_T1,P0497_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0497,P0497_T1,P0497_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0497,P0497_T1,P0497_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0497,P0497_T1,P0497_T1_4,4,supported,Supported,Supported
+P0497,P0497_T1,P0497_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0501,P0501_T1,P0501_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0501,P0501_T1,P0501_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0501,P0501_T1,P0501_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0501,P0501_T1,P0501_T1_4,4,supported,Supported,Supported
+P0501,P0501_T1,P0501_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0348,P0348_T1,P0348_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0348,P0348_T1,P0348_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0348,P0348_T1,P0348_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0348,P0348_T1,P0348_T1_4,4,supported,Supported,Not Supported
+P0348,P0348_T1,P0348_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0350,P0350_T1,P0350_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0350,P0350_T1,P0350_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0350,P0350_T1,P0350_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0350,P0350_T1,P0350_T1_4,4,supported,Supported,Not Supported
+P0350,P0350_T1,P0350_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0015,P0015_T1,P0015_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0015,P0015_T1,P0015_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0015,P0015_T1,P0015_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0015,P0015_T1,P0015_T1_4,4,supported,Supported,Supported
+P0015,P0015_T1,P0015_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0015,P0015_T2,P0015_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0015,P0015_T2,P0015_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0015,P0015_T2,P0015_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0015,P0015_T2,P0015_T2_4,4,supported,Supported,Supported
+P0015,P0015_T2,P0015_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0015,P0015_T3,P0015_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0015,P0015_T3,P0015_T3_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0015,P0015_T3,P0015_T3_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0015,P0015_T3,P0015_T3_4,4,supported,Supported,Supported
+P0015,P0015_T3,P0015_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0015,P0015_T4,P0015_T4_1,1,relation_contradicted,Not Supported,Not Supported
+P0015,P0015_T4,P0015_T4_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0015,P0015_T4,P0015_T4_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0015,P0015_T4,P0015_T4_4,4,supported,Supported,Supported
+P0015,P0015_T4,P0015_T4_5,5,condition_contradicted,Not Supported,Not Supported
+P0239,P0239_T1,P0239_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0239,P0239_T1,P0239_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0239,P0239_T1,P0239_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0239,P0239_T1,P0239_T1_4,4,supported,Supported,Not Supported
+P0239,P0239_T1,P0239_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0239,P0239_T2,P0239_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0239,P0239_T2,P0239_T2_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0239,P0239_T2,P0239_T2_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0239,P0239_T2,P0239_T2_4,4,supported,Supported,Not Supported
+P0239,P0239_T2,P0239_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0239,P0239_T3,P0239_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0239,P0239_T3,P0239_T3_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0239,P0239_T3,P0239_T3_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0239,P0239_T3,P0239_T3_4,4,supported,Supported,Not Supported
+P0239,P0239_T3,P0239_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0239,P0239_T4,P0239_T4_1,1,relation_contradicted,Not Supported,Not Supported
+P0239,P0239_T4,P0239_T4_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0239,P0239_T4,P0239_T4_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0239,P0239_T4,P0239_T4_4,4,supported,Supported,Not Supported
+P0239,P0239_T4,P0239_T4_5,5,condition_contradicted,Not Supported,Not Supported
+P0242,P0242_T1,P0242_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0242,P0242_T1,P0242_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0242,P0242_T1,P0242_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0242,P0242_T1,P0242_T1_4,4,supported,Supported,Supported
+P0242,P0242_T1,P0242_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0242,P0242_T2,P0242_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0242,P0242_T2,P0242_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0242,P0242_T2,P0242_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0242,P0242_T2,P0242_T2_4,4,supported,Supported,Supported
+P0242,P0242_T2,P0242_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0143,P0143_T1,P0143_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0143,P0143_T1,P0143_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0143,P0143_T1,P0143_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0143,P0143_T1,P0143_T1_4,4,supported,Supported,Not Enough Evidence
+P0143,P0143_T1,P0143_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0143,P0143_T2,P0143_T2_1,1,relation_contradicted,Not Supported,Not Enough Evidence
+P0143,P0143_T2,P0143_T2_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0143,P0143_T2,P0143_T2_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0143,P0143_T2,P0143_T2_4,4,supported,Supported,Supported
+P0143,P0143_T2,P0143_T2_5,5,condition_contradicted,Not Supported,Supported
+P0143,P0143_T3,P0143_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0143,P0143_T3,P0143_T3_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0143,P0143_T3,P0143_T3_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0143,P0143_T3,P0143_T3_4,4,supported,Supported,Not Supported
+P0143,P0143_T3,P0143_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0354,P0354_T1,P0354_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0354,P0354_T1,P0354_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0354,P0354_T1,P0354_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0354,P0354_T1,P0354_T1_4,4,supported,Supported,Supported
+P0354,P0354_T1,P0354_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0354,P0354_T2,P0354_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0354,P0354_T2,P0354_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0354,P0354_T2,P0354_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0354,P0354_T2,P0354_T2_4,4,supported,Supported,Supported
+P0354,P0354_T2,P0354_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0355,P0355_T1,P0355_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0355,P0355_T1,P0355_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0355,P0355_T1,P0355_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0355,P0355_T1,P0355_T1_4,4,supported,Supported,Supported
+P0355,P0355_T1,P0355_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0507,P0507_T1,P0507_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0507,P0507_T1,P0507_T1_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0507,P0507_T1,P0507_T1_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0507,P0507_T1,P0507_T1_4,4,supported,Supported,Not Supported
+P0507,P0507_T1,P0507_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0507,P0507_T2,P0507_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0507,P0507_T2,P0507_T2_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0507,P0507_T2,P0507_T2_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0507,P0507_T2,P0507_T2_4,4,supported,Supported,Not Supported
+P0507,P0507_T2,P0507_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0510,P0510_T1,P0510_T1_1,1,relation_contradicted,Not Supported,Not Supported
+P0510,P0510_T1,P0510_T1_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0510,P0510_T1,P0510_T1_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0510,P0510_T1,P0510_T1_4,4,supported,Supported,Not Supported
+P0510,P0510_T1,P0510_T1_5,5,condition_contradicted,Not Supported,Not Supported
+P0510,P0510_T2,P0510_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0510,P0510_T2,P0510_T2_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0510,P0510_T2,P0510_T2_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0510,P0510_T2,P0510_T2_4,4,supported,Supported,Supported
+P0510,P0510_T2,P0510_T2_5,5,condition_contradicted,Not Supported,Not Supported
+P0510,P0510_T3,P0510_T3_1,1,relation_contradicted,Not Supported,Not Supported
+P0510,P0510_T3,P0510_T3_2,2,condition_replaced,Not Enough Evidence,Not Enough Evidence
+P0510,P0510_T3,P0510_T3_3,3,condition_removed,Not Enough Evidence,Not Enough Evidence
+P0510,P0510_T3,P0510_T3_4,4,supported,Supported,Supported
+P0510,P0510_T3,P0510_T3_5,5,condition_contradicted,Not Supported,Not Supported
+P0511,P0511_T2,P0511_T2_1,1,relation_contradicted,Not Supported,Not Supported
+P0511,P0511_T2,P0511_T2_2,2,condition_replaced,Not Enough Evidence,Not Supported
+P0511,P0511_T2,P0511_T2_3,3,condition_removed,Not Enough Evidence,Not Supported
+P0511,P0511_T2,P0511_T2_4,4,supported,Supported,Not Supported
+P0511,P0511_T2,P0511_T2_5,5,condition_contradicted,Not Supported,Not Supported

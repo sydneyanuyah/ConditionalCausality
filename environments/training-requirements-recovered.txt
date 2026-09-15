@@ -1,0 +1,11 @@
+# Lower bounds recovered from setup scripts; not an exact historical lockfile.
+torch>=2.3
+transformers>=4.44
+datasets>=2.20
+accelerate>=0.33
+peft>=0.12
+bitsandbytes>=0.43
+pandas>=2.0
+numpy>=1.26
+scikit-learn>=1.3
+

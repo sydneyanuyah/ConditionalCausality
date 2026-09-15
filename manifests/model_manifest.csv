@@ -1,0 +1,10 @@
+model_display_name,model_identifier,role,revision_status
+Kimi-K2,Kimi-K2,prompted API model,provider build identifier not recorded
+Llama-3.3-70B-Instruct,Llama-3.3-70B-Instruct,prompted model,immutable revision not recorded
+Phi-4-mini-instruct,microsoft/Phi-4-mini-instruct,prompted and QLoRA,immutable revision not recorded
+Qwen2.5-32B-Instruct,Qwen/Qwen2.5-32B-Instruct,prompted and QLoRA,immutable revision not recorded
+BERT,bert-base-uncased,encoder fine-tuning,immutable revision not recorded
+SciBERT,allenai/scibert_scivocab_uncased,encoder fine-tuning,immutable revision not recorded
+PubMedBERT,microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext,encoder fine-tuning,immutable revision not recorded
+BioBERT,dmis-lab/biobert-base-cased-v1.1,encoder fine-tuning,immutable revision not recorded
+

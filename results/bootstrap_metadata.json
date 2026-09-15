@@ -1,0 +1,21 @@
+{
+  "description": "Tuple-family bootstrap over saved prompted and 100%-training predictions; no model inference or training was rerun.",
+  "bootstrap_unit": "Tuple_ID (all probe rows retained together)",
+  "confidence_interval": "2.5th and 97.5th percentiles of bootstrap estimates",
+  "labels": [
+    "Supported",
+    "Not Supported",
+    "Not Enough Evidence"
+  ],
+  "metrics": [
+    "accuracy",
+    "macro_f1",
+    "ogr",
+    "sps"
+  ],
+  "repetitions": 10000,
+  "base_seed": 20260802,
+  "manifest": "manifests/run_manifest.csv",
+  "output": "results/bootstrap_all_reported_runs.csv",
+  "numpy_version": "2.3.5"
+}
