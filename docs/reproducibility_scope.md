@@ -5,8 +5,8 @@
 The package contains condition-scoped tuples, all handcrafted P1–P5 claims, gold
 probe labels, tuple/family identifiers, source grouping identifiers, released split
 files, prompts, recovered training/inference code, evaluation code, OGR and SPS,
-tuple-family bootstrap code, 47 compact prediction files, machine-readable results,
-and checksums.
+tuple-family bootstrap code, 47 compact prediction files, and machine-readable
+results.
 
 ## Historical information that cannot be reconstructed honestly
 

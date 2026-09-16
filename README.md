@@ -93,7 +93,7 @@ metrics and confidence intervals from the saved prediction files.
 | [`manifests/`](manifests/) | Run mappings, model settings, and family metadata |
 | [`src/evaluation/`](src/evaluation/) | Extraction, classification, OGR, SPS, and bootstrap evaluation |
 | [`src/training/`](src/training/) | Training and inference programs |
-| [`src/validation/`](src/validation/) | Release, checksum, and split validators |
+| [`src/validation/`](src/validation/) | Release and split validators |
 | [`docs/`](docs/) | Data, methods, metrics, and protocol documentation |
 | [`provenance/`](provenance/) | Source-review and historical project materials |
 

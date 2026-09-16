@@ -14,5 +14,4 @@
 | Bootstrap | `src/evaluation/bootstrap_tuple_families.py` |
 | Saved predictions | `predictions/` and `manifests/run_manifest.csv` |
 | Machine-readable estimates and CIs | `results/` |
-| Checksums | `CHECKSUMS.sha256` |
 | Known historical limits | `docs/reproducibility_scope.md` |

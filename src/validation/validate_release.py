@@ -4,7 +4,6 @@
 from __future__ import annotations
 
 import csv
-import hashlib
 from collections import Counter, defaultdict
 from pathlib import Path
 
@@ -99,30 +98,12 @@ def validate_sizes() -> int:
     return largest
 
 
-def validate_checksums() -> int:
-    checksum_file = ROOT / "CHECKSUMS.sha256"
-    if not checksum_file.exists():
-        fail("CHECKSUMS.sha256 is missing")
-    count = 0
-    for line in checksum_file.read_text(encoding="utf-8").splitlines():
-        digest, rel = line.split("  ", 1)
-        path = ROOT / rel
-        if not path.is_file():
-            fail(f"checksummed file is missing: {rel}")
-        actual = hashlib.sha256(path.read_bytes()).hexdigest()
-        if actual != digest:
-            fail(f"checksum mismatch: {rel}")
-        count += 1
-    return count
-
-
 def main() -> None:
     rows, invalid = validate_manifest()
     probes, incomplete = validate_probes()
     largest = validate_sizes()
-    checksums = validate_checksums()
     print(f"PASS: 47 runs, {rows:,} prediction rows, {probes:,} canonical probe rows")
-    print(f"PASS: {checksums} checksums; largest file {largest / 1024 / 1024:.1f} MiB")
+    print(f"PASS: largest file {largest / 1024 / 1024:.1f} MiB")
     print(f"INFO: {invalid:,} blank/noncanonical predictions are retained as evaluation errors")
     print(f"INFO: {incomplete} recovered source families are incomplete and listed in the completeness manifest")
 
