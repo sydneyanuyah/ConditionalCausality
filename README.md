@@ -3,14 +3,15 @@
 ### A mixed-domain benchmark for condition-scoped relation understanding
 
 [![DOI](https://img.shields.io/badge/DOI-10.6084%2Fm9.figshare.32948507-1f6feb)](https://doi.org/10.6084/m9.figshare.32948507)
+[![Hugging Face dataset](https://img.shields.io/badge/%F0%9F%A4%97-dataset-ffd21e)](https://huggingface.co/datasets/sanuyah/CondRelBench)
 [![Data license: CC BY 4.0](https://img.shields.io/badge/data-CC%20BY%204.0-2ea44f)](LICENSE_DATA.md)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-3776ab)](https://www.python.org/)
 
-CondRelBench contains benchmark data for condition-scoped relation extraction and
-probe classification across Synthetic, PubMed, and Reddit domains. The release
-includes gold data, handcrafted P1–P5 probes, train/validation/test splits, saved
-predictions, evaluation code, training and inference programs, manifests,
-documentation, and tuple-family bootstrap results.
+CondRelBench is a benchmark for condition-scoped relation extraction and probe
+classification across Synthetic, PubMed, and Reddit domains. This repository
+contains the code, saved predictions, results, manifests, and documentation. The
+benchmark data, handcrafted P1–P5 probes, and train/validation/test splits are
+hosted on [Hugging Face](https://huggingface.co/datasets/sanuyah/CondRelBench).
 
 Dataset record: [https://doi.org/10.6084/m9.figshare.32948507](https://doi.org/10.6084/m9.figshare.32948507)
 
@@ -63,6 +64,11 @@ together. The reference results are in
 Create a Python 3.10+ environment and run:
 
 ```bash
+python -m pip install -U huggingface_hub
+hf download sanuyah/CondRelBench \
+  --repo-type dataset \
+  --include "data/**" \
+  --local-dir .
 python -m pip install -r environments/evaluation-requirements.txt
 python src/validation/validate_release.py
 python src/validation/validate_splits.py
@@ -81,9 +87,7 @@ metrics and confidence intervals from the saved prediction files.
 
 | Path | Contents |
 |---|---|
-| [`data/extraction/`](data/extraction/) | Gold condition-scoped extraction data |
-| [`data/probes/`](data/probes/) | Canonical P1–P5 probe tables and gold labels |
-| [`data/splits/`](data/splits/) | Released extraction and probe splits |
+| [Hugging Face dataset](https://huggingface.co/datasets/sanuyah/CondRelBench) | Extraction data, probes, and released splits |
 | [`predictions/`](predictions/) | Saved prompted and fine-tuned predictions |
 | [`results/`](results/) | Estimates and bootstrap confidence intervals |
 | [`manifests/`](manifests/) | Run mappings, model settings, and family metadata |
